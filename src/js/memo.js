@@ -3,6 +3,7 @@ import { memoState, memos, saveMemo } from './store.js';
 import { render } from './list.js';
 
 const FIELD_CLS = 'field';
+let memoBodyAbort = new AbortController();
 
 function collectDrafts() {
   memoState.draftGoods = memoState.draftGoods.map((_, i) => ({
@@ -53,6 +54,8 @@ export function renderMemoBody() {
       </button>
     </div>`;
 
+  memoBodyAbort.abort();
+  memoBodyAbort = new AbortController();
   $('memo-body').addEventListener('click', e => {
     const btn = e.target.closest('[data-memo-action]');
     if (!btn) return;
@@ -64,7 +67,7 @@ export function renderMemoBody() {
     if (action === 'add-book')   { memoState.draftBooks.push(''); }
     if (action === 'del-book')   { memoState.draftBooks.splice(i, 1); }
     renderMemoBody();
-  }, { once: true });
+  }, { signal: memoBodyAbort.signal });
 }
 
 export function openMemo(b) {
