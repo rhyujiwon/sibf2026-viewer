@@ -1,0 +1,6 @@
+.vercel
+*.csv
+*.py
+skills-lock.json
+.agents/
+.claude/
