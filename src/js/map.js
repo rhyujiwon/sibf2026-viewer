@@ -48,33 +48,96 @@ export function initMap() {
   if (mapReady) return;
   mapReady = true;
   const stage = $('map-stage');
+
+  /* ── 멀티터치 상태 추적 ── */
+  const ptrs = new Map(); // pointerId → {x, y}
   let drag = false, lx = 0, ly = 0, didDrag = false;
 
-  stage.addEventListener('pointerdown', e => {
-    drag = true; lx = e.clientX; ly = e.clientY; didDrag = false;
-    stage.classList.add('dragging');
-    stage.setPointerCapture(e.pointerId);
-  });
-  stage.addEventListener('pointermove', e => {
-    if (!drag) return;
-    const dx = e.clientX - lx, dy = e.clientY - ly;
-    if (Math.abs(dx) > 3 || Math.abs(dy) > 3) didDrag = true;
+  function fit() {
     const r = stage.getBoundingClientRect();
-    const fit = Math.min(r.width / MAP_VBW, r.height / MAP_VBH);
-    mTx += dx / fit; mTy += dy / fit;
-    lx = e.clientX; ly = e.clientY;
-    applyMapTransform();
-  });
-  stage.addEventListener('pointerup', e => {
-    drag = false; stage.classList.remove('dragging');
-    if (!didDrag) {
-      const under = document.elementFromPoint(e.clientX, e.clientY);
-      const booth = under && under.closest('.booth');
-      if (booth) window.openBoothPanel(booth.dataset.booth);
+    return Math.min(r.width / MAP_VBW, r.height / MAP_VBH);
+  }
+
+  stage.addEventListener('pointerdown', e => {
+    stage.setPointerCapture(e.pointerId);
+    ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+
+    if (ptrs.size === 1) {
+      drag = true; lx = e.clientX; ly = e.clientY; didDrag = false;
+      stage.classList.add('dragging');
+    } else {
+      // 두 번째 손가락 → 핀치 모드 전환
+      drag = false; didDrag = true;
+      stage.classList.remove('dragging');
     }
   });
-  stage.addEventListener('pointercancel', () => { drag = false; stage.classList.remove('dragging'); });
-  stage.addEventListener('pointerleave',  () => { drag = false; stage.classList.remove('dragging'); });
+
+  stage.addEventListener('pointermove', e => {
+    if (!ptrs.has(e.pointerId)) return;
+
+    if (ptrs.size >= 2) {
+      // ── 핀치줌 + 패닝 ──
+      const prevPts = [...ptrs.values()];
+      const prevDist = Math.hypot(prevPts[0].x - prevPts[1].x, prevPts[0].y - prevPts[1].y);
+      const prevMidX = (prevPts[0].x + prevPts[1].x) / 2;
+      const prevMidY = (prevPts[0].y + prevPts[1].y) / 2;
+
+      ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+
+      const newPts = [...ptrs.values()];
+      const newDist = Math.hypot(newPts[0].x - newPts[1].x, newPts[0].y - newPts[1].y);
+      const newMidX = (newPts[0].x + newPts[1].x) / 2;
+      const newMidY = (newPts[0].y + newPts[1].y) / 2;
+
+      if (prevDist > 0 && newDist > 0) {
+        const f = fit();
+        const r = stage.getBoundingClientRect();
+        const svgMidX = (prevMidX - r.left) / f;
+        const svgMidY = (prevMidY - r.top)  / f;
+        const ns = mClamp(mScale * (newDist / prevDist), 0.5, 14);
+        mTx = svgMidX + (mTx - svgMidX) * (ns / mScale);
+        mTy = svgMidY + (mTy - svgMidY) * (ns / mScale);
+        mScale = ns;
+        // 두 손가락 중점 이동만큼 패닝
+        mTx += (newMidX - prevMidX) / f;
+        mTy += (newMidY - prevMidY) / f;
+        applyMapTransform();
+      }
+    } else if (drag) {
+      // ── 단일 손가락 드래그 ──
+      const dx = e.clientX - lx, dy = e.clientY - ly;
+      if (Math.abs(dx) > 3 || Math.abs(dy) > 3) didDrag = true;
+      mTx += dx / fit(); mTy += dy / fit();
+      lx = e.clientX; ly = e.clientY;
+      ptrs.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      applyMapTransform();
+    }
+  });
+
+  function endPointer(e) {
+    const hadTwo = ptrs.size === 2;
+    ptrs.delete(e.pointerId);
+
+    if (ptrs.size === 0) {
+      stage.classList.remove('dragging');
+      drag = false;
+      if (!didDrag && e.type === 'pointerup') {
+        const under = document.elementFromPoint(e.clientX, e.clientY);
+        const booth = under && under.closest('.booth');
+        if (booth) window.openBoothPanel(booth.dataset.booth);
+      }
+    } else if (ptrs.size === 1 && hadTwo) {
+      // 핀치 → 단일 손가락으로 전환: 드래그 재개
+      const [, pos] = [...ptrs.entries()][0];
+      drag = true; lx = pos.x; ly = pos.y;
+      didDrag = true; // 전환 후 실수로 부스 열리지 않게
+      stage.classList.add('dragging');
+    }
+  }
+
+  stage.addEventListener('pointerup',     endPointer);
+  stage.addEventListener('pointercancel', endPointer);
+  stage.addEventListener('pointerleave',  endPointer);
   stage.addEventListener('wheel', e => {
     e.preventDefault();
     const r = stage.getBoundingClientRect();
@@ -174,7 +237,7 @@ export function initMap() {
   let lastBoothEl = null, savedTitle = '';
 
   stage.addEventListener('pointermove', e => {
-    if (drag) { mapTip.classList.remove('visible'); return; }
+    if (drag || ptrs.size >= 2) { mapTip.classList.remove('visible'); return; }
     const el = document.elementFromPoint(e.clientX, e.clientY)?.closest('.booth');
     if (!el) {
       mapTip.classList.remove('visible');
