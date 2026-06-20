@@ -101,7 +101,6 @@
   #map-stage .booth:hover rect { stroke:#AAFF00 !important; stroke-width:4 !important; cursor:pointer; }
   #map-stage .booth.map-fav rect { stroke:#f59e0b !important; stroke-width:5 !important; }
   #map-stage .booth.map-dim { opacity:.12; pointer-events:none; }
-  #map-stage .booth.map-dim.map-fav { opacity:1; pointer-events:auto; }
   #map-stage .booth.map-highlight rect { stroke:#e0394c !important; stroke-width:5 !important; }
 
   /* Map search */
