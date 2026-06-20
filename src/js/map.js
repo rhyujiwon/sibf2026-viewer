@@ -27,17 +27,23 @@ export function syncMapOverlays() {
     const w = +rect.getAttribute('width');
 
     if (isFav) {
-      const star = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      star.setAttribute('x', x + w - 3); star.setAttribute('y', y + 23);
-      star.setAttribute('font-size', '22'); star.setAttribute('text-anchor', 'end');
-      star.setAttribute('class', 'map-star'); star.setAttribute('pointer-events', 'none');
-      star.textContent = '⭐';
-      el.appendChild(star);
+      const size = 14, scale = size / 24;
+      const heart = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      heart.setAttribute('d', 'M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z');
+      heart.setAttribute('fill', '#f43f5e');
+      heart.setAttribute('stroke', '#fff');
+      heart.setAttribute('stroke-width', String(+(2 / scale).toFixed(1)));
+      heart.setAttribute('stroke-linecap', 'round');
+      heart.setAttribute('stroke-linejoin', 'round');
+      heart.setAttribute('transform', `translate(${x + w - size - 3},${y + 4}) scale(${scale})`);
+      heart.setAttribute('class', 'map-star');
+      heart.setAttribute('pointer-events', 'none');
+      el.appendChild(heart);
     }
     if (hasMemo) {
       const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      dot.setAttribute('cx', x + 11); dot.setAttribute('cy', y + 11); dot.setAttribute('r', '9');
-      dot.setAttribute('fill', '#AAFF00'); dot.setAttribute('stroke', '#111'); dot.setAttribute('stroke-width', '1.5');
+      dot.setAttribute('cx', x + 8); dot.setAttribute('cy', y + 8); dot.setAttribute('r', '6');
+      dot.setAttribute('fill', '#AAFF00'); dot.setAttribute('stroke', '#fff'); dot.setAttribute('stroke-width', '2');
       dot.setAttribute('class', 'map-memo-dot'); dot.setAttribute('pointer-events', 'none');
       el.appendChild(dot);
     }
