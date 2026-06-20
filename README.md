@@ -2,7 +2,7 @@
 
 **서울국제도서전 2026** 참가사 정보를 목록과 배치도로 탐색하는 웹 앱입니다.
 
-🔗 **[배포 URL](https://sibf2026-viewer.vercel.app)**
+🔗 **[배포 URL](https://sibf2026-viewer-jfsl.vercel.app)**
 
 ---
 
