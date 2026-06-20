@@ -1,0 +1,1692 @@
+<svg id="mapSvg" viewBox="0 0 3230 3650" xmlns="http://www.w3.org/2000/svg">
+    <defs></defs>
+    <rect x="0" y="0" width="3230" height="3650" fill="#ffffff"/>
+    <g id="map-zoomLayer">
+      <rect x="944" y="1931" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1318" y="1931" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1875" y="1931" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="2432" y="1931" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="2168" y="863" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="879" y="2561" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="879" y="2246" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1258" y="2876" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1258" y="2561" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1258" y="2246" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1636" y="2876" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1636" y="2561" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1636" y="2246" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="2347" y="2876" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="505" y="2246" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="505" y="2561" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="505" y="2876" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="879" y="2876" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="2613" y="508" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1794" y="863" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1668" y="1361" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="1977" y="1361" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="2157" y="1361" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="570" y="1931" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="188" y="2876" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="188" y="2561" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="188" y="2246" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="379" y="1931" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="2347" y="2561" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<rect x="2397" y="2246" width="59" height="29" fill="#f4f4f4" stroke="#e2e2e2" stroke-width="1"/>
+<g class="facility"><rect x="1277" y="3236" width="25" height="29" fill="#eef2f6" stroke="#bcc6cf" stroke-width="1.5" rx="4"/><text x="1289.5" y="3255.5" font-size="14" font-weight="700" text-anchor="middle" fill="#5a6b78">WC</text></g>
+<g class="facility"><rect x="2581" y="1853" width="25" height="29" fill="#eef2f6" stroke="#bcc6cf" stroke-width="1.5" rx="4"/><text x="2593.5" y="1872.5" font-size="14" font-weight="700" text-anchor="middle" fill="#5a6b78">WC</text></g>
+<g class="facility"><rect x="2918" y="554" width="25" height="29" fill="#eef2f6" stroke="#bcc6cf" stroke-width="1.5" rx="4"/><text x="2930.5" y="573.5" font-size="14" font-weight="700" text-anchor="middle" fill="#5a6b78">WC</text></g>
+<g class="facility"><rect x="2918" y="1263" width="25" height="29" fill="#eef2f6" stroke="#bcc6cf" stroke-width="1.5" rx="4"/><text x="2930.5" y="1282.5" font-size="14" font-weight="700" text-anchor="middle" fill="#5a6b78">WC</text></g>
+<g class="facility"><rect x="508" y="1853" width="25" height="29" fill="#eef2f6" stroke="#bcc6cf" stroke-width="1.5" rx="4"/><text x="520.5" y="1872.5" font-size="14" font-weight="700" text-anchor="middle" fill="#5a6b78">WC</text></g>
+<g class="facility"><rect x="1790" y="3236" width="25" height="29" fill="#eef2f6" stroke="#bcc6cf" stroke-width="1.5" rx="4"/><text x="1802.5" y="3255.5" font-size="14" font-weight="700" text-anchor="middle" fill="#5a6b78">WC</text></g>
+<clipPath id="clip_B602"><rect x="2173" y="897" width="236" height="167"/></clipPath>
+<g class="booth" data-booth="B602"><rect x="2173" y="897" width="236" height="167" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B602
+- 문학동네 (Munhakdongne)</title>
+<text x="2183" y="927" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">B602</text>
+<text x="2183" y="945.6" font-size="15.6" fill="#1a1a1a">문학동네</text>
+</g>
+<clipPath id="clip_B601"><rect x="2173" y="1137" width="236" height="167"/></clipPath>
+<g class="booth" data-booth="B601"><rect x="2173" y="1137" width="236" height="167" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B601
+- 안전가옥 (SAFEHOUSE)</title>
+<text x="2183" y="1167" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">B601</text>
+<text x="2183" y="1185.6" font-size="15.6" fill="#1a1a1a">안전가옥</text>
+</g>
+<clipPath id="clip_B605"><rect x="2482" y="897" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B605"><rect x="2482" y="897" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B605
+- 다람출판사 (Darambooks Publishing)</title>
+<text x="2486.24" y="918.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B605</text>
+<text x="2486.24" y="934.4288" font-size="13.2" fill="#1a1a1a">다람출판사</text>
+</g>
+<clipPath id="clip_B604"><rect x="2482" y="954" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B604"><rect x="2482" y="954" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B604
+- 아침달 (ACHIMDAL)</title>
+<text x="2486.24" y="975.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B604</text>
+<text x="2486.24" y="992.39" font-size="13.7" fill="#1a1a1a">아침달</text>
+</g>
+<clipPath id="clip_B608"><rect x="2539" y="897" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B608"><rect x="2539" y="897" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B608
+- 썸북스 (SOMEBOOKS)</title>
+<text x="2543.24" y="918.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B608</text>
+<text x="2543.24" y="934.4288" font-size="13.2" fill="#1a1a1a">썸북스</text>
+</g>
+<clipPath id="clip_B607"><rect x="2539" y="954" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B607"><rect x="2539" y="954" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B607
+- 북챗 (BOOKCHAT)</title>
+<text x="2543.24" y="975.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B607</text>
+<text x="2543.24" y="991.4288" font-size="13.2" fill="#1a1a1a">북챗</text>
+</g>
+<clipPath id="clip_B606"><rect x="2539" y="1011" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B606"><rect x="2539" y="1011" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B606
+- 주식회사 휴먼밸류 / 더클래스 (HUMAN VALUE, THE CLASS)</title>
+<text x="2543.24" y="1032.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B606</text>
+<text x="2543.24" y="1048.4288000000001" font-size="13.2" fill="#1a1a1a">주식회사…</text>
+</g>
+<clipPath id="clip_B603"><rect x="2482" y="1137" width="236" height="167"/></clipPath>
+<g class="booth" data-booth="B603"><rect x="2482" y="1137" width="236" height="167" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B603
+- 창비 (Changbi Publishers)</title>
+<text x="2492" y="1167" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">B603</text>
+<text x="2492" y="1185.6" font-size="15.6" fill="#1a1a1a">창비</text>
+</g>
+<clipPath id="clip_A1802"><rect x="2402" y="2280" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A1802"><rect x="2402" y="2280" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1802
+- 펭귄랜덤하우스 UK (Penguin Randomhouse UK)</title>
+<text x="2410.8" y="2308.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1802</text>
+<text x="2410.8" y="2327.4" font-size="15.6" fill="#1a1a1a">펭귄랜덤하우스…</text>
+</g>
+<clipPath id="clip_A1801"><rect x="2402" y="2394" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A1801"><rect x="2402" y="2394" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1801
+- Livres Canada Books
+- Annick Press
+- BookLand Press
+- Drawn &amp; Quarterly
+- Éditions Alto
+- Éditions Fonfon
+- Éditions Michel Quintin
+- Éditions Québec Amérique
+- Firefly Books
+- Les Éditions les Malins
+- McGill-Queen&#x27;s University Press
+- Orca Book Publishers
+- University of Toronto Press</title>
+<text x="2410.8" y="2422.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1801</text>
+<text x="2410.8" y="2439.1216000000004" font-size="13.3" fill="#1a1a1a">Livres Can…</text>
+<text x="2410.8" y="2454.8410880000006" font-size="13.3" fill="#1a1a1a">Annick Pre…</text>
+<text x="2410.8" y="2470.5605760000008" font-size="13.3" fill="#1a1a1a">BookLand P…</text>
+<text x="2410.8" y="2486.280064000001" font-size="13.3" fill="#1a1a1a">Drawn &amp; Qu…</text>
+<text x="2410.8" y="2495.2" font-size="12.0" fill="#555" font-style="italic">+9개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A1803"><rect x="2587" y="2280" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A1803"><rect x="2587" y="2280" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1803
+- 독일 프랑크푸르트도서전 (Frankfurter Buchmesse)
+- Arbeitsgemeinschaft von Jugendbuchverlagen e.V.
+- Droemer Knaur Publishing Group
+- Dunkcer &amp; Humblot GmbH
+- German Pavilion
+- 주한독일문화원 (Goethe-Institut Korea)
+- Kiepenheuer &amp; Witsch
+- 모어 지베크 (Mohr Siebeck GmbH &amp; Co. KG)
+- MuseARTa GmbH
+- Palomaa Publishing
+- Rowohlt Verlag GmbH
+- Schweizerbart/Borntraeger Science Publishers
+- Ullstein Buchverlage GmbH</title>
+<text x="2595.8" y="2308.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1803</text>
+<text x="2595.8" y="2326.090666666667" font-size="14.3" fill="#1a1a1a">독일 프랑크푸르트…</text>
+<text x="2595.8" y="2342.9536533333335" font-size="14.3" fill="#1a1a1a">Arbeitsge…</text>
+<text x="2595.8" y="2359.81664" font-size="14.3" fill="#1a1a1a">Droemer K…</text>
+<text x="2595.8" y="2376.6796266666665" font-size="14.3" fill="#1a1a1a">Dunkcer &amp;…</text>
+<text x="2595.8" y="2393.542613333333" font-size="14.3" fill="#1a1a1a">German Pa…</text>
+<text x="2595.8" y="2410.4055999999996" font-size="14.3" fill="#1a1a1a">주한독일문화원</text>
+<text x="2595.8" y="2427.268586666666" font-size="14.3" fill="#1a1a1a">Kiepenheu…</text>
+<text x="2595.8" y="2444.1315733333327" font-size="14.3" fill="#1a1a1a">모어 지베크</text>
+<text x="2595.8" y="2460.994559999999" font-size="14.3" fill="#1a1a1a">MuseARTa…</text>
+<text x="2595.8" y="2477.8575466666657" font-size="14.3" fill="#1a1a1a">Palomaa P…</text>
+<text x="2595.8" y="2494.7205333333322" font-size="14.3" fill="#1a1a1a">Rowohlt V…</text>
+<text x="2595.8" y="2495.2" font-size="12.9" fill="#555" font-style="italic">+2개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A1807"><rect x="2770" y="2223" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A1807"><rect x="2770" y="2223" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1807
+- 연사 라운지1 (Speakders Lounge 1)</title>
+<text x="2774.24" y="2241.24" font-size="14.0" font-weight="700" fill="#1a1a1a" class="booth-code">A1807</text>
+<text x="2774.24" y="2255.16" font-size="10.9" fill="#1a1a1a">연사 라운…</text>
+</g>
+<clipPath id="clip_A1806"><rect x="2770" y="2337" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1806"><rect x="2770" y="2337" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1806
+- Wells Hamilton Literary Consultants</title>
+<text x="2774.24" y="2355.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1806</text>
+<text x="2774.24" y="2369.0888" font-size="10.9" fill="#1a1a1a">Wells…</text>
+</g>
+<clipPath id="clip_A1805"><rect x="2770" y="2394" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1805"><rect x="2770" y="2394" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1805
+- Beijiao Children Joy Education &amp; Technology (Beijing) Co., Ltd.</title>
+<text x="2774.24" y="2412.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1805</text>
+<text x="2774.24" y="2426.0888" font-size="10.9" fill="#1a1a1a">Beiji…</text>
+</g>
+<clipPath id="clip_A1804"><rect x="2770" y="2451" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1804"><rect x="2770" y="2451" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1804
+- YUEWEN|WebNovel</title>
+<text x="2774.24" y="2469.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1804</text>
+<text x="2774.24" y="2483.0888" font-size="10.9" fill="#1a1a1a">YUEWE…</text>
+</g>
+<clipPath id="clip_A1201"><rect x="2352" y="2595" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A1201"><rect x="2352" y="2595" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1201
+- 타이완콘텐츠진흥원 (TAICCA)
+- CommonWealth Education Media and Publishing Co., Ltd.
+- DUMPLING CAT FAMILY
+- Hakka Affairs Council
+- JS Agency Co., Ltd.
+- KAWAII HYOKA / Caiji Art
+- Kuroro space exploration team / memes creative partnership co., ltd.
+- REVE BOOKS LTD., CO
+- Rye Field Publications, a division of Cite Publishing Ltd.
+- SpringHill Publishing
+- 타코쿠마 (TAKOKUMA / Sunthingood Co., Ltd.)
+- THE GRAYHAWK AGENCY</title>
+<text x="2362" y="2625" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1201</text>
+<text x="2362" y="2642.1066666666666" font-size="14.1" fill="#1a1a1a">타이완콘텐츠진흥원</text>
+<text x="2362" y="2658.7525333333333" font-size="14.1" fill="#1a1a1a">CommonWealth Ed…</text>
+<text x="2362" y="2675.3984" font-size="14.1" fill="#1a1a1a">DUMPLING CAT FA…</text>
+<text x="2362" y="2692.0442666666668" font-size="14.1" fill="#1a1a1a">Hakka Affairs C…</text>
+<text x="2362" y="2708.6901333333335" font-size="14.1" fill="#1a1a1a">JS Agency Co.,…</text>
+<text x="2362" y="2725.3360000000002" font-size="14.1" fill="#1a1a1a">KAWAII HYOKA /…</text>
+<text x="2362" y="2741.981866666667" font-size="14.1" fill="#1a1a1a">Kuroro space ex…</text>
+<text x="2362" y="2758.6277333333337" font-size="14.1" fill="#1a1a1a">REVE BOOKS LTD.…</text>
+<text x="2362" y="2775.2736000000004" font-size="14.1" fill="#1a1a1a">Rye Field Publi…</text>
+<text x="2362" y="2791.919466666667" font-size="14.1" fill="#1a1a1a">SpringHill Publ…</text>
+<text x="2362" y="2808.565333333334" font-size="14.1" fill="#1a1a1a">타코쿠마</text>
+<text x="2362" y="2809" font-size="12.7" fill="#555" font-style="italic">+1개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A1202"><rect x="2586" y="2595" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A1202"><rect x="2586" y="2595" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1202
+- 주한태국대사관 상무공사관실 (OFFICE OF COMMERCIAL AFFAIRS, ROYAL THAI EMBASSY, DITP)
+- Amarin Corporations PCL
+- BANLUE PUBLICATIONS COMPANY LIMITED
+- Channasoot Publishing
+- Combang Publishing House Limited Partnership
+- DEXPRESS COMPANY LIMITED
+- Avocado Books (Earlgrey co.,ltd)
+- Glory Forever Public Company Limited
+- Golden C Creative contentCo.,Ltd.
+- HAPPYME-D CO., LTD.
+- Liatris publishing
+- MITMAKME Group
+- 모카그룹 (Mocca Group)
+- 유기적 링크 (ORGANIC LINKS CO., LTD.)
+- Silkwormbooks
+- 라이터 소울 태국 (Writer Soul Thailand Corporation Ltd)</title>
+<text x="2594.8" y="2623.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1202</text>
+<text x="2594.8" y="2641.090666666667" font-size="14.3" fill="#1a1a1a">주한태국대사관 상…</text>
+<text x="2594.8" y="2657.9536533333335" font-size="14.3" fill="#1a1a1a">Amarin Co…</text>
+<text x="2594.8" y="2674.81664" font-size="14.3" fill="#1a1a1a">BANLUE PU…</text>
+<text x="2594.8" y="2691.6796266666665" font-size="14.3" fill="#1a1a1a">Channasoo…</text>
+<text x="2594.8" y="2708.542613333333" font-size="14.3" fill="#1a1a1a">Combang P…</text>
+<text x="2594.8" y="2725.4055999999996" font-size="14.3" fill="#1a1a1a">DEXPRESS…</text>
+<text x="2594.8" y="2742.268586666666" font-size="14.3" fill="#1a1a1a">Avocado B…</text>
+<text x="2594.8" y="2759.1315733333327" font-size="14.3" fill="#1a1a1a">Glory For…</text>
+<text x="2594.8" y="2775.994559999999" font-size="14.3" fill="#1a1a1a">Golden C…</text>
+<text x="2594.8" y="2792.8575466666657" font-size="14.3" fill="#1a1a1a">HAPPYME-D…</text>
+<text x="2594.8" y="2809.7205333333322" font-size="14.3" fill="#1a1a1a">Liatris p…</text>
+<text x="2594.8" y="2810.2" font-size="12.9" fill="#555" font-style="italic">+5개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A1207"><rect x="2769" y="2538" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1207"><rect x="2769" y="2538" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1207
+- 연변교육출판사 (Yanbian Education Press)
+- 연변인민출판사 (Yanbian People&#x27;s Press)
+- 연변대학출판사 (Yanbian University Press)</title>
+<text x="2773.24" y="2556.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1207</text>
+<text x="2773.24" y="2568.571733333333" font-size="9.4" fill="#1a1a1a">연변교육출판사</text>
+<text x="2773.24" y="2579.6303786666667" font-size="9.4" fill="#1a1a1a">연변인민출판사</text>
+<text x="2773.24" y="2586.76" font-size="8.4" fill="#555" font-style="italic">+1개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A1206"><rect x="2769" y="2595" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1206"><rect x="2769" y="2595" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1206
+- 프로칠레 (PROCHILE)
+- Calcetines Animados
+- VLP Agency
+- Recrea Libros</title>
+<text x="2773.24" y="2613.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1206</text>
+<text x="2773.24" y="2625.571733333333" font-size="9.4" fill="#1a1a1a">프로칠레</text>
+<text x="2773.24" y="2636.6303786666667" font-size="9.4" fill="#1a1a1a">Calcet…</text>
+<text x="2773.24" y="2643.76" font-size="8.4" fill="#555" font-style="italic">+2개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A1205"><rect x="2769" y="2652" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1205"><rect x="2769" y="2652" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1205
+- 퀴퍼 프린츠 (Quipper Prints)</title>
+<text x="2773.24" y="2670.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1205</text>
+<text x="2773.24" y="2684.0888" font-size="10.9" fill="#1a1a1a">퀴퍼 프린츠</text>
+</g>
+<clipPath id="clip_A1204"><rect x="2769" y="2709" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1204"><rect x="2769" y="2709" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1204
+- Studio of Books LLC</title>
+<text x="2773.24" y="2727.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1204</text>
+<text x="2773.24" y="2741.0888" font-size="10.9" fill="#1a1a1a">Studi…</text>
+</g>
+<clipPath id="clip_A1203"><rect x="2769" y="2766" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1203"><rect x="2769" y="2766" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1203
+- EC Publishing LLC</title>
+<text x="2773.24" y="2784.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1203</text>
+<text x="2773.24" y="2798.0888" font-size="10.9" fill="#1a1a1a">EC Pu…</text>
+</g>
+<clipPath id="clip_A402"><rect x="1263" y="2910" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A402"><rect x="1263" y="2910" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A402
+- 네이버웹툰 (NAVER WEBTOON)</title>
+<text x="1271.8" y="2938.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A402</text>
+<text x="1271.8" y="2957.4" font-size="15.6" fill="#1a1a1a">네이버웹툰</text>
+</g>
+<clipPath id="clip_A401"><rect x="1263" y="3024" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A401"><rect x="1263" y="3024" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A401
+- 보림출판사 (BORIMPRESS)</title>
+<text x="1271.8" y="3052.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A401</text>
+<text x="1271.8" y="3071.4" font-size="15.6" fill="#1a1a1a">보림출판사</text>
+</g>
+<clipPath id="clip_A403"><rect x="1446" y="2910" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A403"><rect x="1446" y="2910" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A403
+- (주)위즈덤하우스 (WISDOMHOUSE)</title>
+<text x="1454.8" y="2938.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A403</text>
+<text x="1454.8" y="2957.4" font-size="15.6" fill="#1a1a1a">(주)위즈덤하우스</text>
+</g>
+<clipPath id="clip_A1001"><rect x="1263" y="2595" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A1001"><rect x="1263" y="2595" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1001
+- 주식회사 돌베개 (dolbegae)
+- 평산책방 (pyeongsanbooks)</title>
+<text x="1271.8" y="2623.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1001</text>
+<text x="1271.8" y="2642.4" font-size="15.6" fill="#1a1a1a">주식회사 돌베개</text>
+<text x="1271.8" y="2660.808" font-size="15.6" fill="#1a1a1a">평산책방</text>
+</g>
+<clipPath id="clip_A1002"><rect x="1446" y="2595" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A1002"><rect x="1446" y="2595" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1002
+- 재단법인 아모레퍼시픽재단 (Amorepacific Foundation)</title>
+<text x="1454.8" y="2623.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1002</text>
+<text x="1454.8" y="2642.4" font-size="15.6" fill="#1a1a1a">재단법인 아모레…</text>
+</g>
+<clipPath id="clip_A1601"><rect x="1263" y="2280" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A1601"><rect x="1263" y="2280" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1601
+- (주)열린책들 (The Open Books Co.)</title>
+<text x="1271.8" y="2308.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1601</text>
+<text x="1271.8" y="2327.4" font-size="15.6" fill="#1a1a1a">(주)열린책들</text>
+</g>
+<clipPath id="clip_A1602"><rect x="1446" y="2280" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A1602"><rect x="1446" y="2280" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1602
+- (주)오팬하우스 (OFANHOUSE)</title>
+<text x="1454.8" y="2308.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1602</text>
+<text x="1454.8" y="2327.4" font-size="15.6" fill="#1a1a1a">(주)오팬하우스</text>
+</g>
+<clipPath id="clip_A902"><rect x="884" y="2595" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A902"><rect x="884" y="2595" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A902
+- 더중앙플러스 (The JoongAng Plus)</title>
+<text x="892.8" y="2623.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A902</text>
+<text x="892.8" y="2642.4" font-size="15.6" fill="#1a1a1a">더중앙플러스</text>
+</g>
+<clipPath id="clip_A901"><rect x="884" y="2709" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A901"><rect x="884" y="2709" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A901
+- 윌북 (Willbooks Publishing Co.)</title>
+<text x="892.8" y="2737.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A901</text>
+<text x="892.8" y="2756.4" font-size="15.6" fill="#1a1a1a">윌북</text>
+</g>
+<clipPath id="clip_A903"><rect x="1067" y="2595" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A903"><rect x="1067" y="2595" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A903
+- 동아시아·허블 (EAST-ASIA·Hubble)</title>
+<text x="1075.8" y="2623.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A903</text>
+<text x="1075.8" y="2642.4" font-size="15.6" fill="#1a1a1a">동아시아·허블</text>
+</g>
+<clipPath id="clip_A1502"><rect x="884" y="2280" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A1502"><rect x="884" y="2280" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1502
+- 전국동네책방네트워크 (Korea Local bookshop network)</title>
+<text x="892.8" y="2308.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1502</text>
+<text x="892.8" y="2327.4" font-size="15.6" fill="#1a1a1a">전국동네책방네트…</text>
+</g>
+<clipPath id="clip_A1501"><rect x="884" y="2394" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A1501"><rect x="884" y="2394" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1501
+- 시공사 (SIGONGSA)</title>
+<text x="892.8" y="2422.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1501</text>
+<text x="892.8" y="2441.4" font-size="15.6" fill="#1a1a1a">시공사</text>
+</g>
+<clipPath id="clip_A1503"><rect x="1067" y="2280" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A1503"><rect x="1067" y="2280" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1503
+- 엘르 코리아 (ELLE Korea)</title>
+<text x="1075.8" y="2308.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1503</text>
+<text x="1075.8" y="2327.4" font-size="15.6" fill="#1a1a1a">엘르 코리아</text>
+</g>
+<clipPath id="clip_A2102"><rect x="949" y="1965" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A2102"><rect x="949" y="1965" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2102
+- 오이뮤 (OIMU)</title>
+<text x="957.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2102</text>
+<text x="957.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">오이뮤</text>
+</g>
+<clipPath id="clip_A2101"><rect x="949" y="2079" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A2101"><rect x="949" y="2079" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2101
+- 사회평론 (sahoipyoungnon)</title>
+<text x="957.8" y="2107.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2101</text>
+<text x="957.8" y="2126.4" font-size="15.6" fill="#1a1a1a">사회평론</text>
+</g>
+<clipPath id="clip_A2103"><rect x="1132" y="1965" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A2103"><rect x="1132" y="1965" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2103
+- 은행나무 (EunHaengNaMu)
+- (주)휴머니스트 출판그룹 (Humanist Publishing Group)</title>
+<text x="1140.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2103</text>
+<text x="1140.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">은행나무</text>
+<text x="1140.8" y="2030.8079999999998" font-size="15.6" fill="#1a1a1a">(주)휴머니스트…</text>
+</g>
+<clipPath id="clip_A2401"><rect x="2437" y="1965" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A2401"><rect x="2437" y="1965" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2401
+- 타이베이도서전재단 (Taipei Book Fair Foundation)</title>
+<text x="2445.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2401</text>
+<text x="2445.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">타이베이도서전재단</text>
+</g>
+<clipPath id="clip_A2201"><rect x="1323" y="1965" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A2201"><rect x="1323" y="1965" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2201
+- 길벗어린이 (Gilbut Children Publishing)</title>
+<text x="1331.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2201</text>
+<text x="1331.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">길벗어린이</text>
+</g>
+<clipPath id="clip_A2202"><rect x="1506" y="1965" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A2202"><rect x="1506" y="1965" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2202
+- 문학과지성사 (Moonji Publishing Co., Ltd)</title>
+<text x="1514.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2202</text>
+<text x="1514.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">문학과지성사</text>
+</g>
+<clipPath id="clip_A2203"><rect x="1689" y="1965" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A2203"><rect x="1689" y="1965" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2203
+- 소전문화재단 (Sojeon Foundation)</title>
+<text x="1697.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2203</text>
+<text x="1697.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">소전문화재단</text>
+</g>
+<clipPath id="clip_A2301"><rect x="1880" y="1965" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A2301"><rect x="1880" y="1965" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2301
+- 서울특별시교육청 (Seoul Metropolitan Office of Education)</title>
+<text x="1888.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2301</text>
+<text x="1888.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">서울특별시교육청</text>
+</g>
+<clipPath id="clip_A2302"><rect x="2063" y="1965" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A2302"><rect x="2063" y="1965" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2302
+- 마음산책 (MAUMSANCHAEK)
+- 사계절출판사 (SAKYEJUL)</title>
+<text x="2071.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2302</text>
+<text x="2071.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">마음산책</text>
+<text x="2071.8" y="2030.8079999999998" font-size="15.6" fill="#1a1a1a">사계절출판사</text>
+</g>
+<clipPath id="clip_A2303"><rect x="2246" y="1965" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A2303"><rect x="2246" y="1965" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2303
+- 디자인하우스 (Designhouse)
+- 주식회사 오뚜기 (OTOKI Corporation)</title>
+<text x="2254.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2303</text>
+<text x="2254.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">디자인하우스</text>
+<text x="2254.8" y="2030.8079999999998" font-size="15.6" fill="#1a1a1a">주식회사 오뚜기</text>
+</g>
+<clipPath id="clip_A501"><rect x="1641" y="2910" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A501"><rect x="1641" y="2910" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A501
+- 이야기장수 (STORYSELLER)
+- 솔테라이브러리 (Salté Library)</title>
+<text x="1651" y="2940" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A501</text>
+<text x="1651" y="2958.6" font-size="15.6" fill="#1a1a1a">이야기장수</text>
+<text x="1651" y="2977.008" font-size="15.6" fill="#1a1a1a">솔테라이브러리</text>
+</g>
+<clipPath id="clip_A502"><rect x="1875" y="2910" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A502"><rect x="1875" y="2910" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A502
+- (주)김영사 (Gimmyoung Publishers)</title>
+<text x="1885" y="2940" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A502</text>
+<text x="1885" y="2958.6" font-size="15.6" fill="#1a1a1a">(주)김영사</text>
+</g>
+<clipPath id="clip_A503"><rect x="2109" y="2910" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A503"><rect x="2109" y="2910" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A503
+- (주)문학수첩 (MoonhakSoochup)</title>
+<text x="2119" y="2940" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A503</text>
+<text x="2119" y="2958.6" font-size="15.6" fill="#1a1a1a">(주)문학수첩</text>
+</g>
+<clipPath id="clip_A1101"><rect x="1641" y="2595" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A1101"><rect x="1641" y="2595" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1101
+- 민음사 출판그룹 (Minumsa Publishing Group)
+- 황금가지 (Goldenbough)</title>
+<text x="1651" y="2625" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1101</text>
+<text x="1651" y="2643.6" font-size="15.6" fill="#1a1a1a">민음사 출판그룹</text>
+<text x="1651" y="2662.008" font-size="15.6" fill="#1a1a1a">황금가지</text>
+</g>
+<clipPath id="clip_A1102"><rect x="1875" y="2595" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A1102"><rect x="1875" y="2595" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1102
+- 인플루엔셜 (Influential)
+- 윌라 (Welaaa)
+- 윌라스토리 (WelaaaStory)</title>
+<text x="1885" y="2625" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1102</text>
+<text x="1885" y="2643.6" font-size="15.6" fill="#1a1a1a">인플루엔셜</text>
+<text x="1885" y="2662.008" font-size="15.6" fill="#1a1a1a">윌라</text>
+<text x="1885" y="2680.4159999999997" font-size="15.6" fill="#1a1a1a">윌라스토리</text>
+</g>
+<clipPath id="clip_A1103"><rect x="2109" y="2595" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A1103"><rect x="2109" y="2595" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1103
+- 서울특별시 서울도서관 (Seoul Metropolitan Library)
+- 신한은행 (Shinhan Bank)</title>
+<text x="2119" y="2625" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1103</text>
+<text x="2119" y="2643.6" font-size="15.6" fill="#1a1a1a">서울특별시 서울도서관</text>
+<text x="2119" y="2662.008" font-size="15.6" fill="#1a1a1a">신한은행</text>
+</g>
+<clipPath id="clip_A1701"><rect x="1641" y="2280" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A1701"><rect x="1641" y="2280" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1701
+- 교보문고 (KYOBO BOOK CENTRE)
+- 교보생명 서재 (Kyobo Life)</title>
+<text x="1651" y="2310" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1701</text>
+<text x="1651" y="2328.6" font-size="15.6" fill="#1a1a1a">교보문고</text>
+<text x="1651" y="2347.008" font-size="15.6" fill="#1a1a1a">교보생명 서재</text>
+</g>
+<clipPath id="clip_A1702"><rect x="1875" y="2280" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A1702"><rect x="1875" y="2280" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1702
+- 주식회사 케이티밀리의서재 (kt millie seojae Co.,Ltd)</title>
+<text x="1885" y="2310" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1702</text>
+<text x="1885" y="2328.6" font-size="15.6" fill="#1a1a1a">주식회사 케이티밀리의서재</text>
+</g>
+<clipPath id="clip_A1703"><rect x="2109" y="2280" width="161" height="224"/></clipPath>
+<g class="booth" data-booth="A1703"><rect x="2109" y="2280" width="161" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1703
+- 예스24 (YES24)</title>
+<text x="2119" y="2310" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1703</text>
+<text x="2119" y="2328.6" font-size="15.6" fill="#1a1a1a">예스24</text>
+</g>
+<clipPath id="clip_A601"><rect x="2352" y="2910" width="287" height="224"/></clipPath>
+<g class="booth" data-booth="A601"><rect x="2352" y="2910" width="287" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A601
+- 주한프랑스대사관 문화과 (Embassy of France in the Republic of Korea)
+- 프랑스 출판네트워크 (구 : 프랑스국제출판사무국) (France Livre (formerly BIEF))</title>
+<text x="2362" y="2940" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A601</text>
+<text x="2362" y="2958.6" font-size="15.6" fill="#1a1a1a">주한프랑스대사관 문화과</text>
+<text x="2362" y="2977.008" font-size="15.6" fill="#1a1a1a">프랑스 출판네트워크 (구 : 프랑스국제출판사무국)</text>
+</g>
+<clipPath id="clip_A602"><rect x="2712" y="2910" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="A602"><rect x="2712" y="2910" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A602
+- (주)쌤앤파커스 (Sam &amp; Parkers Co., Ltd.)</title>
+<text x="2720.8" y="2938.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A602</text>
+<text x="2720.8" y="2957.4" font-size="15.6" fill="#1a1a1a">(주)쌤앤파커스</text>
+</g>
+<clipPath id="clip_A104"><rect x="193" y="2910" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A104"><rect x="193" y="2910" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A104
+- 봄봄출판사 (Bombom Publishing Co.)</title>
+<text x="197.24" y="2931.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A104</text>
+<text x="197.24" y="2947.4287999999997" font-size="13.2" fill="#1a1a1a">봄봄출판사</text>
+</g>
+<clipPath id="clip_A103"><rect x="193" y="2967" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A103"><rect x="193" y="2967" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A103
+- 도서출판부카 (bookaa)</title>
+<text x="197.24" y="2988.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A103</text>
+<text x="197.24" y="3004.4287999999997" font-size="13.2" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_A102"><rect x="193" y="3024" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A102"><rect x="193" y="3024" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A102
+- 별빛들 (BYEOL BIT DEUL)</title>
+<text x="197.24" y="3045.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A102</text>
+<text x="197.24" y="3061.4287999999997" font-size="13.2" fill="#1a1a1a">별빛들</text>
+</g>
+<clipPath id="clip_A101"><rect x="193" y="3081" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A101"><rect x="193" y="3081" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A101
+- 고스트북스 (Ghost Books)</title>
+<text x="197.24" y="3102.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A101</text>
+<text x="197.24" y="3118.4287999999997" font-size="13.2" fill="#1a1a1a">고스트북스</text>
+</g>
+<clipPath id="clip_A108"><rect x="319" y="2910" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A108"><rect x="319" y="2910" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A108
+- 곰세마리 (Gomsemari)
+- 도서출판 달리 (Dahli Children&#x27;s Books)</title>
+<text x="323.24" y="2931.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A108</text>
+<text x="323.24" y="2946.8776" font-size="12.7" fill="#1a1a1a">곰세마리</text>
+<text x="323.24" y="2958.76" font-size="11.4" fill="#555" font-style="italic">+1개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A107"><rect x="319" y="2967" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A107"><rect x="319" y="2967" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A107
+- 애플트리테일즈 (appletreetales)</title>
+<text x="323.24" y="2988.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A107</text>
+<text x="323.24" y="3004.4287999999997" font-size="13.2" fill="#1a1a1a">애플트리…</text>
+</g>
+<clipPath id="clip_A106"><rect x="319" y="3024" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A106"><rect x="319" y="3024" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A106
+- 밝은세상 (Balgunsesang)</title>
+<text x="323.24" y="3045.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A106</text>
+<text x="323.24" y="3061.4287999999997" font-size="13.2" fill="#1a1a1a">밝은세상</text>
+</g>
+<clipPath id="clip_A105"><rect x="319" y="3081" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A105"><rect x="319" y="3081" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A105
+- 단추 출판사 (Danchu Press)</title>
+<text x="323.24" y="3102.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A105</text>
+<text x="323.24" y="3118.4287999999997" font-size="13.2" fill="#1a1a1a">단추 출…</text>
+</g>
+<clipPath id="clip_A112"><rect x="376" y="2910" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A112"><rect x="376" y="2910" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A112
+- 한국출판마케팅연구소 (KOREA PUBLISH MARKETING)</title>
+<text x="380.24" y="2931.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A112</text>
+<text x="380.24" y="2947.4287999999997" font-size="13.2" fill="#1a1a1a">한국출판…</text>
+</g>
+<clipPath id="clip_A111"><rect x="376" y="2967" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A111"><rect x="376" y="2967" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A111
+- 시사북스(빈페이지) (SISABOOKS(emptypage))</title>
+<text x="380.24" y="2988.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A111</text>
+<text x="380.24" y="3004.4287999999997" font-size="13.2" fill="#1a1a1a">시사북스…</text>
+</g>
+<clipPath id="clip_A110"><rect x="376" y="3024" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A110"><rect x="376" y="3024" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A110
+- 소동출판사 (Sodong Publishing House)</title>
+<text x="380.24" y="3045.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A110</text>
+<text x="380.24" y="3061.4287999999997" font-size="13.2" fill="#1a1a1a">소동출판사</text>
+</g>
+<clipPath id="clip_A109"><rect x="376" y="3081" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A109"><rect x="376" y="3081" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A109
+- 핀드 (Pinned)</title>
+<text x="380.24" y="3102.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A109</text>
+<text x="380.24" y="3118.4287999999997" font-size="13.2" fill="#1a1a1a">핀드</text>
+</g>
+<clipPath id="clip_Ticket-Info_A"><rect x="2638" y="3318" width="268" height="112"/></clipPath>
+<g class="booth" data-booth="Ticket-Info_A"><rect x="2638" y="3318" width="268" height="112" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>Ticket-Info_A
+- A홀 티켓‧인포데스크 (Ticket Office‧Information - Hall A)</title>
+<text x="2648" y="3348" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">Ticket-Info_A</text>
+<text x="2648" y="3366.6" font-size="15.6" fill="#1a1a1a">A홀 티켓‧인포데스크</text>
+</g>
+<clipPath id="clip_Ticket-Info_B1"><rect x="2999" y="1125" width="112" height="268"/></clipPath>
+<g class="booth" data-booth="Ticket-Info_B1"><rect x="2999" y="1125" width="112" height="268" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>Ticket-Info_B1
+- B1홀 티켓‧인포데스크 (Ticket Office‧Information - Hall B1)</title>
+<text x="3007.96" y="1144.46" font-size="10.5" font-weight="700" fill="#1a1a1a" class="booth-code">Ticket-Info_B1</text>
+<text x="3007.96" y="1155.65" font-size="8.2" fill="#1a1a1a">B1홀 티켓‧인포데스크</text>
+</g>
+<clipPath id="clip_A704"><rect x="193" y="2595" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A704"><rect x="193" y="2595" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A704
+- 도서출판 북극곰 (BOOKGOODCOME)</title>
+<text x="197.24" y="2616.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A704</text>
+<text x="197.24" y="2632.4287999999997" font-size="13.2" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_A703"><rect x="193" y="2652" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A703"><rect x="193" y="2652" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A703
+- 사단법인 한국대학출판협회 (THE ASSOCIATION OF KOREAN UNIVERSITY PRESSES)</title>
+<text x="197.24" y="2673.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A703</text>
+<text x="197.24" y="2689.4287999999997" font-size="13.2" fill="#1a1a1a">사단법인…</text>
+</g>
+<clipPath id="clip_A702"><rect x="193" y="2709" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A702"><rect x="193" y="2709" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A702
+- 타이피스트 (Typist Press)</title>
+<text x="197.24" y="2730.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A702</text>
+<text x="197.24" y="2746.4287999999997" font-size="13.2" fill="#1a1a1a">타이피스트</text>
+</g>
+<clipPath id="clip_A701"><rect x="193" y="2766" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A701"><rect x="193" y="2766" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A701
+- 봄알람 (baumealame)</title>
+<text x="197.24" y="2787.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A701</text>
+<text x="197.24" y="2803.4287999999997" font-size="13.2" fill="#1a1a1a">봄알람</text>
+</g>
+<clipPath id="clip_A707"><rect x="319" y="2595" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A707"><rect x="319" y="2595" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A707
+- 책읽는고양이 (Reading Cat)</title>
+<text x="323.24" y="2616.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A707</text>
+<text x="323.24" y="2632.4287999999997" font-size="13.2" fill="#1a1a1a">책읽는고…</text>
+</g>
+<clipPath id="clip_A706"><rect x="319" y="2652" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A706"><rect x="319" y="2652" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A706
+- 주식회사 성안당 (SungAnDang Publishing Inc.)</title>
+<text x="323.24" y="2673.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A706</text>
+<text x="323.24" y="2690.39" font-size="13.7" fill="#1a1a1a">주식회사…</text>
+</g>
+<clipPath id="clip_A705"><rect x="319" y="2766" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A705"><rect x="319" y="2766" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A705
+- 국민서관 (KOOKMINBOOKS)</title>
+<text x="323.24" y="2787.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A705</text>
+<text x="323.24" y="2803.4287999999997" font-size="13.2" fill="#1a1a1a">국민서관</text>
+</g>
+<clipPath id="clip_A709"><rect x="376" y="2595" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A709"><rect x="376" y="2595" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A709
+- 고래인 (goraein)
+- 키큰도토리 (Kikeundotori Publishing Co.)</title>
+<text x="380.24" y="2616.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A709</text>
+<text x="380.24" y="2633.39" font-size="13.7" fill="#1a1a1a">고래인</text>
+<text x="380.24" y="2649.497" font-size="13.7" fill="#1a1a1a">키큰도토리</text>
+</g>
+<clipPath id="clip_A708"><rect x="376" y="2709" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A708"><rect x="376" y="2709" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A708
+- 소미미디어 (SOMYMEDIA Inc.)</title>
+<text x="380.24" y="2730.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A708</text>
+<text x="380.24" y="2747.39" font-size="13.7" fill="#1a1a1a">소미미디어</text>
+</g>
+<clipPath id="clip_A1304"><rect x="193" y="2280" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1304"><rect x="193" y="2280" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1304
+- 귤프레스 (guulpress)</title>
+<text x="197.24" y="2298.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1304</text>
+<text x="197.24" y="2312.0888" font-size="10.9" fill="#1a1a1a">귤프레스</text>
+</g>
+<clipPath id="clip_A1303"><rect x="193" y="2337" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1303"><rect x="193" y="2337" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1303
+- 프란츠 (Franz)</title>
+<text x="197.24" y="2355.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1303</text>
+<text x="197.24" y="2369.0888" font-size="10.9" fill="#1a1a1a">프란츠</text>
+</g>
+<clipPath id="clip_A1302"><rect x="193" y="2394" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1302"><rect x="193" y="2394" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1302
+- 서사원 주식회사 (SEOSAWON)</title>
+<text x="197.24" y="2412.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1302</text>
+<text x="197.24" y="2426.0888" font-size="10.9" fill="#1a1a1a">서사원 주…</text>
+</g>
+<clipPath id="clip_A1301"><rect x="193" y="2451" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1301"><rect x="193" y="2451" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1301
+- 엣눈북스 (ATNOONBOOKS)</title>
+<text x="197.24" y="2469.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1301</text>
+<text x="197.24" y="2483.0888" font-size="10.9" fill="#1a1a1a">엣눈북스</text>
+</g>
+<clipPath id="clip_A1308"><rect x="319" y="2280" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1308"><rect x="319" y="2280" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1308
+- 소장각 (Sojanggak)
+- 비플랫폼 (B-PLATFORM)</title>
+<text x="323.24" y="2298.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1308</text>
+<text x="323.24" y="2312.0888" font-size="10.9" fill="#1a1a1a">소장각</text>
+<text x="323.24" y="2324.937584" font-size="10.9" fill="#1a1a1a">비플랫폼</text>
+</g>
+<clipPath id="clip_A1307"><rect x="319" y="2337" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1307"><rect x="319" y="2337" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1307
+- 한림출판사 (HOLLYM CORP, PUBLISHERS)</title>
+<text x="323.24" y="2355.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1307</text>
+<text x="323.24" y="2369.0888" font-size="10.9" fill="#1a1a1a">한림출판사</text>
+</g>
+<clipPath id="clip_A1306"><rect x="319" y="2394" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1306"><rect x="319" y="2394" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1306
+- 쿵프레스 (Koong Press)</title>
+<text x="323.24" y="2412.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1306</text>
+<text x="323.24" y="2426.0888" font-size="10.9" fill="#1a1a1a">쿵프레스</text>
+</g>
+<clipPath id="clip_A1305"><rect x="319" y="2451" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1305"><rect x="319" y="2451" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1305
+- 고요한소리 (Calm Voice Society)</title>
+<text x="323.24" y="2469.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1305</text>
+<text x="323.24" y="2483.0888" font-size="10.9" fill="#1a1a1a">고요한소리</text>
+</g>
+<clipPath id="clip_A1311"><rect x="376" y="2280" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1311"><rect x="376" y="2280" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1311
+- 유어마인드 (YOURMIND)</title>
+<text x="380.24" y="2298.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1311</text>
+<text x="380.24" y="2312.0888" font-size="10.9" fill="#1a1a1a">유어마인드</text>
+</g>
+<clipPath id="clip_A1310"><rect x="376" y="2337" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1310"><rect x="376" y="2337" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1310
+- 라의눈주식회사 (Eye of Ra)</title>
+<text x="380.24" y="2355.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1310</text>
+<text x="380.24" y="2369.0888" font-size="10.9" fill="#1a1a1a">라의눈주식…</text>
+</g>
+<clipPath id="clip_A1309"><rect x="376" y="2394" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A1309"><rect x="376" y="2394" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1309
+- (주)불광미디어 (BULKWANG MEDIA)</title>
+<text x="380.24" y="2412.24" font-size="14.0" font-weight="700" fill="#1a1a1a" class="booth-code">A1309</text>
+<text x="380.24" y="2426.16" font-size="10.9" fill="#1a1a1a">(주)불광…</text>
+</g>
+<clipPath id="clip_B103"><rect x="1673" y="1395" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B103"><rect x="1673" y="1395" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B103
+- (주)책읽는곰 (Bear Books Inc.)</title>
+<text x="1677.24" y="1416.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B103</text>
+<text x="1677.24" y="1433.39" font-size="13.7" fill="#1a1a1a">(주)책…</text>
+</g>
+<clipPath id="clip_B102"><rect x="1673" y="1509" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B102"><rect x="1673" y="1509" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B102
+- 움직씨 출판사 (Oomzicc Publisher)
+- 오리집 (ORIZIP)</title>
+<text x="1677.24" y="1530.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B102</text>
+<text x="1677.24" y="1545.8776" font-size="12.7" fill="#1a1a1a">움직씨…</text>
+<text x="1677.24" y="1557.76" font-size="11.4" fill="#555" font-style="italic">+1개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_B101"><rect x="1673" y="1566" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B101"><rect x="1673" y="1566" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B101
+- 어크로스 (Across Publishing Group, Inc)</title>
+<text x="1677.24" y="1587.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B101</text>
+<text x="1677.24" y="1604.39" font-size="13.7" fill="#1a1a1a">어크로스</text>
+</g>
+<clipPath id="clip_B106"><rect x="1799" y="1395" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B106"><rect x="1799" y="1395" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B106
+- 꿈공장플러스 (DREAMBOOKS)</title>
+<text x="1803.24" y="1416.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B106</text>
+<text x="1803.24" y="1433.39" font-size="13.7" fill="#1a1a1a">꿈공장플…</text>
+</g>
+<clipPath id="clip_B105"><rect x="1799" y="1509" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B105"><rect x="1799" y="1509" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B105
+- 송송책방 (SONGSONG BOOKS)</title>
+<text x="1803.24" y="1530.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B105</text>
+<text x="1803.24" y="1546.4288000000001" font-size="13.2" fill="#1a1a1a">송송책방</text>
+</g>
+<clipPath id="clip_B104"><rect x="1799" y="1566" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B104"><rect x="1799" y="1566" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B104
+- 페이퍼독 (PAPERDOG)
+- 토끼섬 (Tokkiseom)</title>
+<text x="1803.24" y="1587.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B104</text>
+<text x="1803.24" y="1604.39" font-size="13.7" fill="#1a1a1a">페이퍼독</text>
+<text x="1803.24" y="1620.497" font-size="13.7" fill="#1a1a1a">토끼섬</text>
+</g>
+<clipPath id="clip_B109"><rect x="1856" y="1395" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B109"><rect x="1856" y="1395" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B109
+- 컬처룩 (culturelook)
+- 코쿤북스 (cocoonbooks)</title>
+<text x="1860.24" y="1416.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B109</text>
+<text x="1860.24" y="1433.39" font-size="13.7" fill="#1a1a1a">컬처룩</text>
+<text x="1860.24" y="1449.497" font-size="13.7" fill="#1a1a1a">코쿤북스</text>
+</g>
+<clipPath id="clip_B108"><rect x="1856" y="1509" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B108"><rect x="1856" y="1509" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B108
+- 디자인이음 (designEUM)</title>
+<text x="1860.24" y="1530.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B108</text>
+<text x="1860.24" y="1546.4288000000001" font-size="13.2" fill="#1a1a1a">디자인이음</text>
+</g>
+<clipPath id="clip_B107"><rect x="1856" y="1566" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B107"><rect x="1856" y="1566" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B107
+- 아카넷 (Acanet)</title>
+<text x="1860.24" y="1587.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B107</text>
+<text x="1860.24" y="1604.39" font-size="13.7" fill="#1a1a1a">아카넷</text>
+</g>
+<clipPath id="clip_B303"><rect x="2162" y="1395" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B303"><rect x="2162" y="1395" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B303
+- (주)창비교육 (CHANGBIEDU)</title>
+<text x="2166.24" y="1416.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B303</text>
+<text x="2166.24" y="1433.39" font-size="13.7" fill="#1a1a1a">(주)창…</text>
+</g>
+<clipPath id="clip_B302"><rect x="2162" y="1509" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B302"><rect x="2162" y="1509" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B302
+- 늘보의 섬 (SLOTH ISLAND)</title>
+<text x="2166.24" y="1530.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B302</text>
+<text x="2166.24" y="1546.4288000000001" font-size="13.2" fill="#1a1a1a">늘보의 섬</text>
+</g>
+<clipPath id="clip_B301"><rect x="2162" y="1566" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B301"><rect x="2162" y="1566" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B301
+- 도서출판 노란돼지 (Yellowpig publisher)</title>
+<text x="2166.24" y="1587.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B301</text>
+<text x="2166.24" y="1604.39" font-size="13.7" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_B306"><rect x="2219" y="1395" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B306"><rect x="2219" y="1395" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B306
+- 나비클럽 (NABICLUB)</title>
+<text x="2223.24" y="1416.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B306</text>
+<text x="2223.24" y="1433.39" font-size="13.7" fill="#1a1a1a">나비클럽</text>
+</g>
+<clipPath id="clip_B305"><rect x="2219" y="1509" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B305"><rect x="2219" y="1509" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B305
+- 한림사 (HANLIMSA)</title>
+<text x="2223.24" y="1530.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B305</text>
+<text x="2223.24" y="1546.4288000000001" font-size="13.2" fill="#1a1a1a">한림사</text>
+</g>
+<clipPath id="clip_B304"><rect x="2219" y="1566" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B304"><rect x="2219" y="1566" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B304
+- 서해문집 (Booksea Publishing Co.)</title>
+<text x="2223.24" y="1587.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B304</text>
+<text x="2223.24" y="1604.39" font-size="13.7" fill="#1a1a1a">서해문집</text>
+</g>
+<clipPath id="clip_B309"><rect x="2345" y="1395" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B309"><rect x="2345" y="1395" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B309
+- 주식회사 한겨레엔 (Hankyoreh En Co., Ltd.)</title>
+<text x="2349.24" y="1416.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B309</text>
+<text x="2349.24" y="1433.39" font-size="13.7" fill="#1a1a1a">주식회사…</text>
+</g>
+<clipPath id="clip_B308"><rect x="2345" y="1509" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B308"><rect x="2345" y="1509" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B308
+- 퍼머넌트북스 (Permanent Books)</title>
+<text x="2349.24" y="1530.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B308</text>
+<text x="2349.24" y="1546.4288000000001" font-size="13.2" fill="#1a1a1a">퍼머넌트…</text>
+</g>
+<clipPath id="clip_B307"><rect x="2345" y="1566" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B307"><rect x="2345" y="1566" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B307
+- 국립생태원 (NIE PRESS)</title>
+<text x="2349.24" y="1587.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B307</text>
+<text x="2349.24" y="1604.39" font-size="13.7" fill="#1a1a1a">국립생태원</text>
+</g>
+<clipPath id="clip_B203"><rect x="1982" y="1395" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B203"><rect x="1982" y="1395" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B203
+- 레모 출판사 (LES MOTS)
+- 스위밍꿀 (SWIMMINGKUL)</title>
+<text x="1986.24" y="1416.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B203</text>
+<text x="1986.24" y="1433.39" font-size="13.7" fill="#1a1a1a">레모 출…</text>
+<text x="1986.24" y="1449.497" font-size="13.7" fill="#1a1a1a">스위밍꿀</text>
+</g>
+<clipPath id="clip_B202"><rect x="1982" y="1509" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B202"><rect x="1982" y="1509" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B202
+- 바람북스 (BARAMBOOKS)</title>
+<text x="1986.24" y="1530.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B202</text>
+<text x="1986.24" y="1546.4288000000001" font-size="13.2" fill="#1a1a1a">바람북스</text>
+</g>
+<clipPath id="clip_B201"><rect x="1982" y="1566" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B201"><rect x="1982" y="1566" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B201
+- 유유출판사 (UU PRESS)</title>
+<text x="1986.24" y="1587.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B201</text>
+<text x="1986.24" y="1604.39" font-size="13.7" fill="#1a1a1a">유유출판사</text>
+</g>
+<clipPath id="clip_B206"><rect x="2039" y="1395" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B206"><rect x="2039" y="1395" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B206
+- 흰토끼프레스(바캉스프로젝트) (Hintoki Press(Vacances))</title>
+<text x="2043.24" y="1416.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B206</text>
+<text x="2043.24" y="1433.39" font-size="13.7" fill="#1a1a1a">흰토끼프…</text>
+</g>
+<clipPath id="clip_B205"><rect x="2039" y="1509" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="B205"><rect x="2039" y="1509" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B205
+- 후즈갓마이테일 (Whos Got My Tail)</title>
+<text x="2043.24" y="1530.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">B205</text>
+<text x="2043.24" y="1546.4288000000001" font-size="13.2" fill="#1a1a1a">후즈갓마…</text>
+</g>
+<clipPath id="clip_B204"><rect x="2039" y="1566" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B204"><rect x="2039" y="1566" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B204
+- 주식회사 도서출판점자 (Braille Publishing Company)</title>
+<text x="2043.24" y="1587.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B204</text>
+<text x="2043.24" y="1604.39" font-size="13.7" fill="#1a1a1a">주식회사…</text>
+</g>
+<clipPath id="clip_A1907"><rect x="441" y="1965" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1907"><rect x="441" y="1965" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1907
+- (주)크레용하우스 (Crayonhouse. co. Ltd)</title>
+<text x="445.24" y="1983.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1907</text>
+<text x="445.24" y="1997.0888" font-size="10.9" fill="#1a1a1a">(주)크레…</text>
+</g>
+<clipPath id="clip_A1906"><rect x="441" y="2022" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1906"><rect x="441" y="2022" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1906
+- 원더박스 (WONDERBOX)</title>
+<text x="445.24" y="2040.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1906</text>
+<text x="445.24" y="2054.0888" font-size="10.9" fill="#1a1a1a">원더박스</text>
+</g>
+<clipPath id="clip_A1905"><rect x="441" y="2079" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1905"><rect x="441" y="2079" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1905
+- 도서출판 들녘 (Dulnyouk Publishing Co.)</title>
+<text x="445.24" y="2097.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1905</text>
+<text x="445.24" y="2111.0888" font-size="10.9" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_A1904"><rect x="441" y="2136" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1904"><rect x="441" y="2136" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1904
+- 갈라파고스 (Galapagos)</title>
+<text x="445.24" y="2154.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1904</text>
+<text x="445.24" y="2168.0888" font-size="10.9" fill="#1a1a1a">갈라파고스</text>
+</g>
+<clipPath id="clip_A204"><rect x="510" y="2910" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A204"><rect x="510" y="2910" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A204
+- 안녕로빈 (hellorobin)</title>
+<text x="514.24" y="2931.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A204</text>
+<text x="514.24" y="2947.4287999999997" font-size="13.2" fill="#1a1a1a">안녕로빈</text>
+</g>
+<clipPath id="clip_A203"><rect x="510" y="2967" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A203"><rect x="510" y="2967" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A203
+- 인북 (INBOOK)</title>
+<text x="514.24" y="2988.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A203</text>
+<text x="514.24" y="3004.4287999999997" font-size="13.2" fill="#1a1a1a">인북</text>
+</g>
+<clipPath id="clip_A202"><rect x="510" y="3024" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A202"><rect x="510" y="3024" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A202
+- 미디어버스 (Mediabus)
+- 사월의눈 (Aprilsnow Press)
+- 프로파간다 (propaganda)</title>
+<text x="514.24" y="3045.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A202</text>
+<text x="514.24" y="3056.651733333333" font-size="8.5" fill="#1a1a1a">미디어버스</text>
+<text x="514.24" y="3066.6247786666663" font-size="8.5" fill="#1a1a1a">사월의눈</text>
+<text x="514.24" y="3072.76" font-size="7.6" fill="#555" font-style="italic">+1개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A201"><rect x="510" y="3081" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A201"><rect x="510" y="3081" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A201
+- 안그라픽스 (Ahn Graphics)</title>
+<text x="514.24" y="3102.2" font-size="16.96" font-weight="700" fill="#1a1a1a" class="booth-code">A201</text>
+<text x="514.24" y="3118.4287999999997" font-size="13.2" fill="#1a1a1a">안그라픽스</text>
+</g>
+<clipPath id="clip_A206"><rect x="567" y="2910" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A206"><rect x="567" y="2910" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A206
+- (주)학토재 (HAKTOJAE)</title>
+<text x="571.24" y="2931.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A206</text>
+<text x="571.24" y="2948.39" font-size="13.7" fill="#1a1a1a">(주)학…</text>
+</g>
+<clipPath id="clip_A205"><rect x="567" y="3024" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A205"><rect x="567" y="3024" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A205
+- 킨더랜드+반달+여섯번째봄 (KINDERLAND+BANDAL+THE SIXTH SPRING)</title>
+<text x="571.24" y="3045.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A205</text>
+<text x="571.24" y="3062.39" font-size="13.7" fill="#1a1a1a">킨더랜드…</text>
+</g>
+<clipPath id="clip_A208"><rect x="693" y="2910" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A208"><rect x="693" y="2910" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A208
+- (주)도서출판보리 (BORI)</title>
+<text x="697.24" y="2931.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A208</text>
+<text x="697.24" y="2948.39" font-size="13.7" fill="#1a1a1a">(주)도…</text>
+</g>
+<clipPath id="clip_A207"><rect x="693" y="3024" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A207"><rect x="693" y="3024" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A207
+- 노란상상 (Noran Sangsang Books)</title>
+<text x="697.24" y="3045.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A207</text>
+<text x="697.24" y="3062.39" font-size="13.7" fill="#1a1a1a">노란상상</text>
+</g>
+<clipPath id="clip_A210"><rect x="750" y="2910" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A210"><rect x="750" y="2910" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A210
+- 거북이북스 (GOBOOKY BOOKS)</title>
+<text x="754.24" y="2931.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A210</text>
+<text x="754.24" y="2948.39" font-size="13.7" fill="#1a1a1a">거북이북스</text>
+</g>
+<clipPath id="clip_A209"><rect x="750" y="3024" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A209"><rect x="750" y="3024" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A209
+- 니케북스 (nikebooks)
+- 목요일출판사 (mokyoil)
+- 페이퍼스토리 (PAPERSTORY BOOKS)</title>
+<text x="754.24" y="3045.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A209</text>
+<text x="754.24" y="3062.39" font-size="13.7" fill="#1a1a1a">니케북스</text>
+<text x="754.24" y="3078.497" font-size="13.7" fill="#1a1a1a">목요일출…</text>
+<text x="754.24" y="3094.604" font-size="13.7" fill="#1a1a1a">페이퍼스…</text>
+</g>
+<clipPath id="clip_A1404"><rect x="510" y="2280" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1404"><rect x="510" y="2280" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1404
+- 스토리보울 (STORYBOWL)</title>
+<text x="514.24" y="2298.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1404</text>
+<text x="514.24" y="2312.0888" font-size="10.9" fill="#1a1a1a">스토리보울</text>
+</g>
+<clipPath id="clip_A1403"><rect x="510" y="2337" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1403"><rect x="510" y="2337" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1403
+- 마음모자 (Maummoja)</title>
+<text x="514.24" y="2355.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1403</text>
+<text x="514.24" y="2369.0888" font-size="10.9" fill="#1a1a1a">마음모자</text>
+</g>
+<clipPath id="clip_A1402"><rect x="510" y="2394" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1402"><rect x="510" y="2394" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1402
+- 펜타클 (pentacle)</title>
+<text x="514.24" y="2412.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1402</text>
+<text x="514.24" y="2426.0888" font-size="10.9" fill="#1a1a1a">펜타클</text>
+</g>
+<clipPath id="clip_A1401"><rect x="510" y="2451" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1401"><rect x="510" y="2451" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1401
+- 이룸아이 (ErumI Publishing Co.)</title>
+<text x="514.24" y="2469.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1401</text>
+<text x="514.24" y="2483.0888" font-size="10.9" fill="#1a1a1a">이룸아이</text>
+</g>
+<clipPath id="clip_A1406"><rect x="567" y="2280" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A1406"><rect x="567" y="2280" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1406
+- (사)한국기독교출판협회 (KCPA)
+- 도서출판 CUP (CUP (Christian University Press))
+- 도서출판 동연 (DongYeon press)
+- 문광서원 (Mungwangbooks)
+- 바이블네비게이션(주) (Biblenavigation Inc.)
+- 블리스 (BLISS)
+- 쿰란출판사 (Qumran Publishing House)
+- 템북 (TEMBOOK)</title>
+<text x="571.24" y="2298.24" font-size="14.0" font-weight="700" fill="#1a1a1a" class="booth-code">A1406</text>
+<text x="571.24" y="2311.3048" font-size="10.1" fill="#1a1a1a">(사)한국기…</text>
+<text x="571.24" y="2323.181264" font-size="10.1" fill="#1a1a1a">도서출판 C…</text>
+<text x="571.24" y="2335.0577279999998" font-size="10.1" fill="#1a1a1a">도서출판 동연</text>
+<text x="571.24" y="2346.9341919999997" font-size="10.1" fill="#1a1a1a">문광서원</text>
+<text x="571.24" y="2358.8106559999997" font-size="10.1" fill="#1a1a1a">바이블네비게…</text>
+<text x="571.24" y="2370.6871199999996" font-size="10.1" fill="#1a1a1a">블리스</text>
+<text x="571.24" y="2382.5635839999995" font-size="10.1" fill="#1a1a1a">쿰란출판사</text>
+<text x="571.24" y="2385.76" font-size="9.1" fill="#555" font-style="italic">+1개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A1405"><rect x="567" y="2394" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A1405"><rect x="567" y="2394" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1405
+- 몽당연필 (mongdangpencil)
+- 구름이머무는동안 (Cloud Stays Books)
+- 뜰힘 (DDEULHIM)
+- 소유 (SOYOU BOOKS)
+- 아르카 (ARCA)
+- 지우 (Jiwoo Publisher)</title>
+<text x="571.24" y="2412.24" font-size="14.0" font-weight="700" fill="#1a1a1a" class="booth-code">A1405</text>
+<text x="571.24" y="2426.16" font-size="10.9" fill="#1a1a1a">몽당연필</text>
+<text x="571.24" y="2439.0456" font-size="10.9" fill="#1a1a1a">구름이머무…</text>
+<text x="571.24" y="2451.9312" font-size="10.9" fill="#1a1a1a">뜰힘</text>
+<text x="571.24" y="2464.8168" font-size="10.9" fill="#1a1a1a">소유</text>
+<text x="571.24" y="2477.7024" font-size="10.9" fill="#1a1a1a">아르카</text>
+<text x="571.24" y="2490.588" font-size="10.9" fill="#1a1a1a">지우</text>
+</g>
+<clipPath id="clip_A1408"><rect x="693" y="2280" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A1408"><rect x="693" y="2280" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1408
+- (주)이퍼블릭 코리아 (tiramisu the book, safari)</title>
+<text x="697.24" y="2298.24" font-size="14.0" font-weight="700" fill="#1a1a1a" class="booth-code">A1408</text>
+<text x="697.24" y="2312.16" font-size="10.9" fill="#1a1a1a">(주)이퍼…</text>
+</g>
+<clipPath id="clip_A1407"><rect x="693" y="2394" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A1407"><rect x="693" y="2394" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1407
+- 아작 (ARZAK)</title>
+<text x="697.24" y="2412.24" font-size="14.0" font-weight="700" fill="#1a1a1a" class="booth-code">A1407</text>
+<text x="697.24" y="2426.16" font-size="10.9" fill="#1a1a1a">아작</text>
+</g>
+<clipPath id="clip_A1410"><rect x="750" y="2280" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A1410"><rect x="750" y="2280" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1410
+- 에디토리얼 (Editorial Publishing Co.)
+- 가지출판사 (Kindsbook Publishing Company)
+- 메멘토 (Memento Publishing Co.)
+- 목수책방 (Moksu Publishing Company)
+- 혜화1117 (Hyehwa1117 Publishing Company)</title>
+<text x="754.24" y="2298.24" font-size="14.0" font-weight="700" fill="#1a1a1a" class="booth-code">A1410</text>
+<text x="754.24" y="2312.16" font-size="10.9" fill="#1a1a1a">에디토리얼</text>
+<text x="754.24" y="2325.0456" font-size="10.9" fill="#1a1a1a">가지출판사</text>
+<text x="754.24" y="2337.9312" font-size="10.9" fill="#1a1a1a">메멘토</text>
+<text x="754.24" y="2350.8168" font-size="10.9" fill="#1a1a1a">목수책방</text>
+<text x="754.24" y="2363.7024" font-size="10.9" fill="#1a1a1a">혜화1117</text>
+</g>
+<clipPath id="clip_A1409"><rect x="750" y="2394" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A1409"><rect x="750" y="2394" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1409
+- 도서출판 키다리 (Kidari Publishing Co.)</title>
+<text x="754.24" y="2412.24" font-size="14.0" font-weight="700" fill="#1a1a1a" class="booth-code">A1409</text>
+<text x="754.24" y="2426.16" font-size="10.9" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_A302"><rect x="884" y="2910" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A302"><rect x="884" y="2910" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A302
+- 산지니 (Sanzini)</title>
+<text x="888.24" y="2931.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A302</text>
+<text x="888.24" y="2948.39" font-size="13.7" fill="#1a1a1a">산지니</text>
+</g>
+<clipPath id="clip_A301"><rect x="884" y="3024" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A301"><rect x="884" y="3024" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A301
+- 워크룸 프레스 (Workroom Press)</title>
+<text x="888.24" y="3045.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A301</text>
+<text x="888.24" y="3062.39" font-size="13.7" fill="#1a1a1a">워크룸…</text>
+</g>
+<clipPath id="clip_A304"><rect x="942" y="2910" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A304"><rect x="942" y="2910" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A304
+- 글항아리 (GEULHANGARI)</title>
+<text x="946.24" y="2931.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A304</text>
+<text x="946.24" y="2948.39" font-size="13.7" fill="#1a1a1a">글항아리</text>
+</g>
+<clipPath id="clip_A303"><rect x="942" y="3024" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A303"><rect x="942" y="3024" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A303
+- 까치글방 (Kachi Publishing Co., Ltd.)</title>
+<text x="946.24" y="3045.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A303</text>
+<text x="946.24" y="3062.39" font-size="13.7" fill="#1a1a1a">까치글방</text>
+</g>
+<clipPath id="clip_A306"><rect x="1068" y="2910" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A306"><rect x="1068" y="2910" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A306
+- 도서출판 풀빛 (Pulbit)</title>
+<text x="1072.24" y="2931.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A306</text>
+<text x="1072.24" y="2948.39" font-size="13.7" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_A305"><rect x="1068" y="3024" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A305"><rect x="1068" y="3024" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A305
+- 청아출판사 / 봄마중 (ChungA Publishing Co.)</title>
+<text x="1072.24" y="3045.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A305</text>
+<text x="1072.24" y="3062.39" font-size="13.7" fill="#1a1a1a">청아출판…</text>
+</g>
+<clipPath id="clip_A308"><rect x="1126" y="2910" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A308"><rect x="1126" y="2910" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A308
+- (사)한국과학기술출판협회 (Korean Science &amp; Technology Publishers Association)
+- 군자출판사 (KOONJA Publishing Inc.)</title>
+<text x="1130.24" y="2931.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A308</text>
+<text x="1130.24" y="2948.39" font-size="13.7" fill="#1a1a1a">(사)한…</text>
+<text x="1130.24" y="2964.497" font-size="13.7" fill="#1a1a1a">군자출판사</text>
+</g>
+<clipPath id="clip_A307"><rect x="1126" y="3024" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A307"><rect x="1126" y="3024" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A307
+- 도서출판 푸른숲 (PRUNSOOP publisher)</title>
+<text x="1130.24" y="3045.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A307</text>
+<text x="1130.24" y="3062.39" font-size="13.7" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_A802"><rect x="510" y="2595" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A802"><rect x="510" y="2595" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A802
+- 주식회사 소원나무 (SOWONNAMU PUBLISHING CO,. LTD.)</title>
+<text x="514.24" y="2616.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A802</text>
+<text x="514.24" y="2633.39" font-size="13.7" fill="#1a1a1a">주식회사…</text>
+</g>
+<clipPath id="clip_A801"><rect x="510" y="2709" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A801"><rect x="510" y="2709" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A801
+- 부산출판문화산업협회 (Busan Publishing and Culture Industry Association)
+- 고양이함수 (Cat Function)
+- 공공북스 (Gonggong books)
+- 냥이의야옹 (NYAONGBOOKS)
+- 뮤트스튜디오 (Muut Studio)
+- 씨엘미디어 (CLmedia)
+- 해피북미디어 (happybook media)</title>
+<text x="514.24" y="2730.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A801</text>
+<text x="514.24" y="2746.6230666666665" font-size="12.9" fill="#1a1a1a">부산출판…</text>
+<text x="514.24" y="2761.8250853333334" font-size="12.9" fill="#1a1a1a">고양이함수</text>
+<text x="514.24" y="2777.0271040000002" font-size="12.9" fill="#1a1a1a">공공북스</text>
+<text x="514.24" y="2792.229122666667" font-size="12.9" fill="#1a1a1a">냥이의야옹</text>
+<text x="514.24" y="2807.431141333334" font-size="12.9" fill="#1a1a1a">뮤트스튜…</text>
+<text x="514.24" y="2814.76" font-size="11.6" fill="#555" font-style="italic">+2개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A804"><rect x="567" y="2595" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A804"><rect x="567" y="2595" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A804
+- 밝은미래 (Balgeunmirae Publishing Co)</title>
+<text x="571.24" y="2616.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A804</text>
+<text x="571.24" y="2633.39" font-size="13.7" fill="#1a1a1a">밝은미래</text>
+</g>
+<clipPath id="clip_A803"><rect x="567" y="2709" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A803"><rect x="567" y="2709" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A803
+- 뜨인돌출판 (Danielstone Publishing)</title>
+<text x="571.24" y="2730.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A803</text>
+<text x="571.24" y="2747.39" font-size="13.7" fill="#1a1a1a">뜨인돌출판</text>
+</g>
+<clipPath id="clip_A806"><rect x="693" y="2595" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A806"><rect x="693" y="2595" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A806
+- 클레이하우스 주식회사 (CLAYHOUSE)</title>
+<text x="697.24" y="2616.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A806</text>
+<text x="697.24" y="2633.39" font-size="13.7" fill="#1a1a1a">클레이하…</text>
+</g>
+<clipPath id="clip_A805"><rect x="693" y="2709" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A805"><rect x="693" y="2709" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A805
+- 도서출판 동녘 (Dongnyok publishers)</title>
+<text x="697.24" y="2730.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A805</text>
+<text x="697.24" y="2747.39" font-size="13.7" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_A808"><rect x="750" y="2595" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A808"><rect x="750" y="2595" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A808
+- 진선출판사 (Jinsun Publishing)</title>
+<text x="754.24" y="2616.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A808</text>
+<text x="754.24" y="2633.39" font-size="13.7" fill="#1a1a1a">진선출판사</text>
+</g>
+<clipPath id="clip_A807"><rect x="750" y="2709" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="A807"><rect x="750" y="2709" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A807
+- 보스토크 프레스 (VOSTOK PRESS)
+- 프리즘오브 (PRISM OF)</title>
+<text x="754.24" y="2730.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">A807</text>
+<text x="754.24" y="2747.39" font-size="13.7" fill="#1a1a1a">보스토크…</text>
+<text x="754.24" y="2763.497" font-size="13.7" fill="#1a1a1a">프리즘오브</text>
+</g>
+<clipPath id="clip_B707"><rect x="2618" y="542" width="100" height="85"/></clipPath>
+<g class="booth" data-booth="B707"><rect x="2618" y="542" width="100" height="85" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B707
+- 연사 라운지 (Speakders Lounge)</title>
+<text x="2626.0" y="570.0" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">B707</text>
+<text x="2626.0" y="588.6" font-size="15.6" fill="#1a1a1a">연사 라운지</text>
+</g>
+<clipPath id="clip_B706"><rect x="2618" y="631" width="100" height="85"/></clipPath>
+<g class="booth" data-booth="B706"><rect x="2618" y="631" width="100" height="85" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B706
+- 연사 라운지3 (Speakders Lounge 3)</title>
+<text x="2626.0" y="659.0" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">B706</text>
+<text x="2626.0" y="677.6" font-size="15.6" fill="#1a1a1a">연사 라운지3</text>
+</g>
+<clipPath id="clip_B705"><rect x="2618" y="721" width="100" height="85"/></clipPath>
+<g class="booth" data-booth="B705"><rect x="2618" y="721" width="100" height="85" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B705
+- 프레스룸 (Press Room)</title>
+<text x="2626.0" y="749.0" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">B705</text>
+<text x="2626.0" y="767.6" font-size="15.6" fill="#1a1a1a">프레스룸</text>
+</g>
+<clipPath id="clip_B502"><rect x="1799" y="897" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B502"><rect x="1799" y="897" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B502
+- 윤에디션 (YUN EDITION)</title>
+<text x="1803.24" y="918.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B502</text>
+<text x="1803.24" y="935.39" font-size="13.7" fill="#1a1a1a">윤에디션</text>
+</g>
+<clipPath id="clip_B503"><rect x="1856" y="897" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B503"><rect x="1856" y="897" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B503
+- 롤러코스터 (Rollercoaster Press)
+- 초록비책공방 (Greenrainbooks)</title>
+<text x="1860.24" y="918.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B503</text>
+<text x="1860.24" y="935.39" font-size="13.7" fill="#1a1a1a">롤러코스터</text>
+<text x="1860.24" y="951.497" font-size="13.7" fill="#1a1a1a">초록비책…</text>
+</g>
+<clipPath id="clip_B501"><rect x="1799" y="1080" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="B501"><rect x="1799" y="1080" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B501
+- 한솔제지(주) (Hansol Paper)</title>
+<text x="1807.8" y="1108.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">B501</text>
+<text x="1807.8" y="1127.3999999999999" font-size="15.6" fill="#1a1a1a">한솔제지(주)</text>
+</g>
+<clipPath id="clip_B505"><rect x="1982" y="897" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B505"><rect x="1982" y="897" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B505
+- 쪽프레스 (JJOKKPRESS)</title>
+<text x="1986.24" y="918.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B505</text>
+<text x="1986.24" y="935.39" font-size="13.7" fill="#1a1a1a">쪽프레스</text>
+</g>
+<clipPath id="clip_B506"><rect x="2039" y="897" width="53" height="110"/></clipPath>
+<g class="booth" data-booth="B506"><rect x="2039" y="897" width="53" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B506
+- 도서출판도반 (DOBAN BOOKS)</title>
+<text x="2043.24" y="918.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B506</text>
+<text x="2043.24" y="935.39" font-size="13.7" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_B504"><rect x="1982" y="1080" width="110" height="224"/></clipPath>
+<g class="booth" data-booth="B504"><rect x="1982" y="1080" width="110" height="224" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B504
+- 마포출판문화진흥센터 (PLATFORM P)
+- 경옥초이 (KYONGOKCHOI BOOKS)
+- 내로라 출판사 (The Naerora Bookmakers)
+- 니라이카나이 (NIRAIKANAI)
+- 도깨비사 (dokebisha)
+- 두두플래닛 (Dodoplanet)
+- 두유라이크 (DO! U LIKE)
+- 리케의 디자인랩 (lidilab)
+- 마리유니버스 (Mariuniverse)
+- 머핀북 (MuffinbooK)
+- 무블출판사 (MOBL Books)
+- 무중력프레스 (Zero Gravity Press)
+- 물숨 (moolsoom)
+- 밤두 (bamdoo press)
+- 북스토어블 (bookstorable)
+- 붉은사슴 (Red Deer)
+- 빛틈 (vitteum)
+- 생각하는 달팽이 (Thinking Snail)
+- 선홍빛 (Sunhongbit)
+- 스튜디오 에디트 (studio_edit)
+- 스튜디오블랑 (STUDIO BLANC)
+- 쓰는사람 (SNSR)
+- 여가도시 (Yeogadosi)
+- 여름의서재 (summerbooks)
+- 유유히 (UUHEE BOOKS)
+- 인생책방/마이북하우스 (Lifebookstore/Mybookhouse)
+- 정재이프레스 (j.jaeipress)
+- 출판사 이베르 (hiver press)
+- 테일브릿지 (The Tale Bridge)
+- 톰톰프레스 (TomTom Press)
+- 페이지미디어브릿지 (PMB)
+- 해파리 (HAEPARY)
+- 혼혼 (HONHON)</title>
+<text x="1990.8" y="1108.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">B504</text>
+<text x="1990.8" y="1126.0906666666667" font-size="14.3" fill="#1a1a1a">마포출판문화진흥센터</text>
+<text x="1990.8" y="1142.9536533333335" font-size="14.3" fill="#1a1a1a">경옥초이</text>
+<text x="1990.8" y="1159.8166400000002" font-size="14.3" fill="#1a1a1a">내로라 출판사</text>
+<text x="1990.8" y="1176.679626666667" font-size="14.3" fill="#1a1a1a">니라이카나이</text>
+<text x="1990.8" y="1193.5426133333337" font-size="14.3" fill="#1a1a1a">도깨비사</text>
+<text x="1990.8" y="1210.4056000000005" font-size="14.3" fill="#1a1a1a">두두플래닛</text>
+<text x="1990.8" y="1227.2685866666673" font-size="14.3" fill="#1a1a1a">두유라이크</text>
+<text x="1990.8" y="1244.131573333334" font-size="14.3" fill="#1a1a1a">리케의 디자인랩</text>
+<text x="1990.8" y="1260.9945600000008" font-size="14.3" fill="#1a1a1a">마리유니버스</text>
+<text x="1990.8" y="1277.8575466666675" font-size="14.3" fill="#1a1a1a">머핀북</text>
+<text x="1990.8" y="1294.7205333333343" font-size="14.3" fill="#1a1a1a">무블출판사</text>
+<text x="1990.8" y="1295.2" font-size="12.9" fill="#555" font-style="italic">+22개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_A2004"><rect x="575" y="1965" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A2004"><rect x="575" y="1965" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2004
+- 안온북스 (anonbooks)</title>
+<text x="579.24" y="1983.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A2004</text>
+<text x="579.24" y="1997.0888" font-size="10.9" fill="#1a1a1a">안온북스</text>
+</g>
+<clipPath id="clip_A2003"><rect x="575" y="2022" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A2003"><rect x="575" y="2022" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2003
+- 도서출판 폭스코너 (Foxcorner Publishing House)
+- 도서출판 다독다독 (Dadokdadok Publishing)</title>
+<text x="579.24" y="2040.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A2003</text>
+<text x="579.24" y="2054.0888" font-size="10.9" fill="#1a1a1a">도서출판…</text>
+<text x="579.24" y="2066.937584" font-size="10.9" fill="#1a1a1a">도서출판…</text>
+</g>
+<clipPath id="clip_A2002"><rect x="575" y="2079" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A2002"><rect x="575" y="2079" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2002
+- 성서유니온 (Scripture Union Korea)</title>
+<text x="579.24" y="2097.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A2002</text>
+<text x="579.24" y="2111.0888" font-size="10.9" fill="#1a1a1a">성서유니온</text>
+</g>
+<clipPath id="clip_A2001"><rect x="575" y="2136" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A2001"><rect x="575" y="2136" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2001
+- 생명의말씀사 (WORD OF LIFE PRESS)</title>
+<text x="579.24" y="2154.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A2001</text>
+<text x="579.24" y="2168.0888" font-size="10.9" fill="#1a1a1a">생명의말씀사</text>
+</g>
+<clipPath id="clip_A2008"><rect x="632" y="1965" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A2008"><rect x="632" y="1965" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2008
+- 우리나비 (Woorinabi Publishing Co.)</title>
+<text x="636.24" y="1983.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A2008</text>
+<text x="636.24" y="1997.0888" font-size="10.9" fill="#1a1a1a">우리나비</text>
+</g>
+<clipPath id="clip_A2007"><rect x="632" y="2022" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A2007"><rect x="632" y="2022" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2007
+- 잉글리시에그 (ENGLISHEGG)</title>
+<text x="636.24" y="2040.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A2007</text>
+<text x="636.24" y="2054.0888" font-size="10.9" fill="#1a1a1a">잉글리시에그</text>
+</g>
+<clipPath id="clip_A2006"><rect x="632" y="2079" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A2006"><rect x="632" y="2079" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2006
+- 캠퍼스북 (CAMPUSBOOK)</title>
+<text x="636.24" y="2097.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A2006</text>
+<text x="636.24" y="2111.0888" font-size="10.9" fill="#1a1a1a">캠퍼스북</text>
+</g>
+<clipPath id="clip_A2005"><rect x="632" y="2136" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A2005"><rect x="632" y="2136" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2005
+- 청미출판사 (CHEONGMI PUBLISHING CO.)</title>
+<text x="636.24" y="2154.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A2005</text>
+<text x="636.24" y="2168.0888" font-size="10.9" fill="#1a1a1a">청미출판사</text>
+</g>
+<clipPath id="clip_A2010"><rect x="758" y="1965" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A2010"><rect x="758" y="1965" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2010
+- 주식회사 난다 (Nanda)</title>
+<text x="766.8" y="1993.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2010</text>
+<text x="766.8" y="2012.3999999999999" font-size="15.6" fill="#1a1a1a">주식회사 난다</text>
+</g>
+<clipPath id="clip_A2009"><rect x="758" y="2079" width="110" height="110"/></clipPath>
+<g class="booth" data-booth="A2009"><rect x="758" y="2079" width="110" height="110" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2009
+- 한국출판문화산업진흥원 (Publication Industry Promotion Agency of Korea)
+- 그리모어 (Grimoire)
+- 나무의말 (Words of Trees)
+- 다정한시민 (Friendly Citizen)
+- 도서출판 11% (11% Publishing)
+- 도서출판 어웨이크 (AWAKE PUBLISHING HOUSE)
+- 문학정원 (Munhak Garden)
+- 빅퀘스천 출판사 (Big Questions Publishing Co.)
+- 스타라잇 출판사 (Starlight books)
+- 아트레이크 출판사 (ARTLAKE Inc)
+- 좋은습관연구소 (Good Habits Lab)
+- 쥬쥬베북스 (jujube books)
+- 책과바람 (Book&amp;Wish Publisher)
+- 한밤의빛 (HANBAMBIT)
+- 허밍북스 (HUMMINGBOOKS)
+- 호랑이꿈 (Tigerdream Books)
+- 호손재 (Hosonjae)</title>
+<text x="766.8" y="2107.8" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2009</text>
+<text x="766.8" y="2124.1216000000004" font-size="13.3" fill="#1a1a1a">한국출판문화산업진흥원</text>
+<text x="766.8" y="2139.8410880000006" font-size="13.3" fill="#1a1a1a">그리모어</text>
+<text x="766.8" y="2155.5605760000008" font-size="13.3" fill="#1a1a1a">나무의말</text>
+<text x="766.8" y="2171.280064000001" font-size="13.3" fill="#1a1a1a">다정한시민</text>
+<text x="766.8" y="2180.2" font-size="12.0" fill="#555" font-style="italic">+13개사 더 (hover로 전체 확인)</text>
+</g>
+<clipPath id="clip_B207"><rect x="1874" y="1739" width="263" height="41"/></clipPath>
+<g class="booth" data-booth="B207"><rect x="1874" y="1739" width="263" height="41" fill="#FF7832" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B207
+- SIBF × 글월 〈페이지 사이의 우체국〉 (SIBF × geulwoll 〈The Post Office Between the Pages〉)</title>
+<text x="1884" y="1762.12" font-size="13.120000000000001" font-weight="700" fill="#1a1a1a" class="booth-code">B207</text>
+<text x="1884" y="1772.3696" font-size="7.2" fill="#1a1a1a">SIBF × 글월 〈페이지 사이의 우체국〉</text>
+</g>
+<clipPath id="clip_B400"><rect x="1301" y="897" width="417" height="407"/></clipPath>
+<g class="booth" data-booth="B400"><rect x="1301" y="897" width="417" height="407" fill="#69C8F0" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B400
+- 책마을 (Book Village)
+- 누땡스 (nu thanks)
+- 텍스트 프레스 (textpress.kr)
+- 프레스탁! (press tac!)
+- 225호 (Room Number 225)
+- 라마북스 (LLAMA BOOKS)
+- 비바 헤리티지 시리즈 (Viva Heritage Series)
+- 라우더북스 (Louder Books)
+- Fidèle éditions
+- Owl &amp; Dog Playbooks
+- 프레스룸 (PRESS ROOM)
+- 히스테리안 (Hysterian)
+- 행복한 재수가 있는 (Happy Jaesu Press)
+- 두낫프레스?프레스! (donotpress?press!)
+- 자인운트 (Seinund)
+- 유연성클럽 (THE FLEXIBILITY CLUB)
+- 메이커메이커 (MAKERMAKER)
+- 0.1 (0.1)
+- 검정프레스 (geomjung press)
+- 써니라운드 (SUNNYROUND)
+- 픽션들 (fictiondle)
+- 남섬책방 (Namseom Books)
+- 시네필 책방 코프키노 (KopfKino)
+- 요호이 (yohoi)
+- 스튜디오604 (STUDIO604)
+- 돛과닻 (Sail and Anchor)
+- 스크립토 (Scripto)
+- 타바코북스 (TABACOBOOKS)
+- 머쉬룸 (mushRoom)
+- 소환사 (Sohwansa)
+- 마그네틱 파이브 (MAGNETIC 5)
+- 하호하호 (hahohaho)
+- 1도씨와 온도들 (1docci)
+- 후루룩 (Hooloolook)
+- 유일무이(누구나) (NUGUNA)
+- 코스모 프레스 (kosmo press)
+- 아뜰리에아쉬 (AtelierH)
+- 라우트 프레스 (Route Press)
+- 오큐파이 더 시티 (Occupy the City)
+- 길고도 짧은 이야기 (longshortstory)
+- 무주산골영화제 (MJFF)
+- 미스테리어스플랜트 (mysterious plant)
+- 소화당 (SoHwaDang)
+- 김주영 (Joo Young Kim)
+- 삐약삐약북스 (PPIYACKPPIYACK BOOKS)
+- 카인드오브썸머 (KIND OF SUMMER)
+- 마블로켓 (MARBLEROCKET)
+- 블루토마토즈 (bluetomatoes)
+- 노말에이 (NOrmal A)
+- 연필과머그 (Pencil and Mug)
+- 까막북 (KKAMAKBOOK)
+- 에트르 (ETRE)
+- 책덕 (Bookduck)
+- 디 오브젝트 (the object)
+- TEMPORARY BOOKSHOP | C시지G (TEMPORARY BOOKSHOP | CsijiG)
+- 파도 (SEEYOURSEA)
+- 선과 결 (LineGrain)
+- 탱크 프레스 (TANK Press)
+- 바이블랭크 (by_[blank])
+- te editions
+- One Stroke
+- 마테리알 (ma-te-ri-al)
+- 소시민워크 (sosiminwork)
+- 그래픽하 (GRAPHICHA)
+- 인공위성+82 (Satellite+82)
+- 수목요일(모눈지) (sumokyoil(monunji))
+- 하이오 웍스 (Haio works)
+- 미씽아카이브 (missing_archive)
+- Image 3
+- Homeward
+- Rusuban Studio
+- Indie Publishers Association of Taiwan
+- comma books
+- Guerrilla Publishing Co., Ltd
+- Halftone Press
+- Kuroshio Culture Co. Ltd.
+- LA VIE CINE studio
+- Monsoon Zone Publishing Co., Ltd.
+- MULU OFFICE CO., LTD.
+- SiLoo Story
+- Slowork Publishing Ltd.
+- TOKHIU BOOKS CO., LTD.
+- Independent Publishers Expo
+- Singapore Art Book Fair
+- Blue Sheep Co., ltd.
+- ELVIS PRESS
+- LLC INSECTS
+- Manazuru Publishing
+- Milllion Years Bookstore
+- Nanarokusha Publishing
+- rn press INC.
+- Seki Shobo
+- Shinyodo
+- Shoshikankanbou
+- Tababooks
+- The Editorial Department Inc.
+- Troublemakers Publishing
+- Tsumujikaze-sha
+- Thing Books Pte Ltd
+- THEBOOKSHOW
+- Thumb Books</title>
+<text x="1311" y="941" font-size="34" font-weight="700" fill="#1a1a1a">책마을</text>
+<text x="1311" y="965.7" font-size="18.700000000000003" fill="#555">Book Village · 100개 부스</text>
+<text x="1311" y="1294" font-size="11" fill="#555">※ 개별 부스 위치는 아래 검색에서 상호명으로 확인</text>
+</g>
+<clipPath id="clip_A113"><rect x="193" y="3177" width="236" height="27"/></clipPath>
+<g class="booth" data-booth="A113"><rect x="193" y="3177" width="236" height="27" fill="#FF7832" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A113
+- 일러스트레이터스 월 (Illustrators Wall)</title>
+<text x="203" y="3195.64" font-size="8.64" font-weight="700" fill="#1a1a1a" class="booth-code">A113</text>
+<text x="203" y="3205.14" font-size="6.5" fill="#1a1a1a">일러스트레이터스 월</text>
+</g>
+<clipPath id="clip_A2402"><rect x="2620" y="1965" width="203" height="224"/></clipPath>
+<g class="booth" data-booth="A2402"><rect x="2620" y="1965" width="203" height="224" fill="#FFF000" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A2402
+- 책만남홀1 (Readers Hall 1)</title>
+<text x="2630" y="1995" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A2402</text>
+<text x="2630" y="2013.6" font-size="15.6" fill="#1a1a1a">책만남홀1</text>
+</g>
+<clipPath id="clip_A1901"><rect x="193" y="1965" width="118" height="224"/></clipPath>
+<g class="booth" data-booth="A1901"><rect x="193" y="1965" width="118" height="224" fill="#FFF000" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1901
+- 책만남홀2 (Readers Hall 2)</title>
+<text x="202.44" y="1994.44" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">A1901</text>
+<text x="202.44" y="2013.04" font-size="15.6" fill="#1a1a1a">책만남홀2</text>
+</g>
+<clipPath id="clip_A1902"><rect x="378" y="2028" width="53" height="167"/></clipPath>
+<g class="booth" data-booth="A1902"><rect x="378" y="2028" width="53" height="167" fill="#FF7832" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1902
+- 아트숍 (Art Shop)</title>
+<text x="382.24" y="2046.24" font-size="14.0" font-weight="700" fill="#1a1a1a" class="booth-code">A1902</text>
+<text x="382.24" y="2060.16" font-size="10.9" fill="#1a1a1a">아트숍</text>
+</g>
+<clipPath id="clip_A1903"><rect x="384" y="1965" width="53" height="53"/></clipPath>
+<g class="booth" data-booth="A1903"><rect x="384" y="1965" width="53" height="53" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>A1903
+- 연사 라운지2 (Speakders Lounge 2)</title>
+<text x="388.24" y="1983.2" font-size="13.96" font-weight="700" fill="#1a1a1a" class="booth-code">A1903</text>
+<text x="388.24" y="1997.0888" font-size="10.9" fill="#1a1a1a">연사 라운…</text>
+</g>
+<clipPath id="clip_B701"><rect x="1301" y="542" width="371" height="264"/></clipPath>
+<g class="booth" data-booth="B701"><rect x="1301" y="542" width="371" height="264" fill="#8C82C8" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B701
+- (주)커피 리브레 (COFFEE LIBRE)</title>
+<text x="1311" y="572" font-size="20" font-weight="700" fill="#FFFFFF" class="booth-code">B701</text>
+<text x="1311" y="590.6" font-size="15.6" fill="#FFFFFF">(주)커피 리브레</text>
+</g>
+<clipPath id="clip_B702"><rect x="1741" y="542" width="144" height="264"/></clipPath>
+<g class="booth" data-booth="B702"><rect x="1741" y="542" width="144" height="264" fill="#000000" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B702
+- BBK × SIBF 책 라운지 with 일룸 (BBK × SIBF Book Lounge with iloom)</title>
+<text x="1751" y="572" font-size="20" font-weight="700" fill="#FFFFFF" class="booth-code">B702</text>
+<text x="1751" y="590.6" font-size="15.6" fill="#FFFFFF">BBK × SIBF…</text>
+</g>
+<clipPath id="clip_B703"><rect x="1954" y="542" width="144" height="264"/></clipPath>
+<g class="booth" data-booth="B703"><rect x="1954" y="542" width="144" height="264" fill="#000000" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B703
+- 주제전시 (Theme Exhibition)</title>
+<text x="1964" y="572" font-size="20" font-weight="700" fill="#FFFFFF" class="booth-code">B703</text>
+<text x="1964" y="590.6" font-size="15.6" fill="#FFFFFF">주제전시</text>
+</g>
+<clipPath id="clip_B704"><rect x="2167" y="542" width="382" height="264"/></clipPath>
+<g class="booth" data-booth="B704"><rect x="2167" y="542" width="382" height="264" fill="#FFF000" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B704
+- 책마당 (Book Salon)</title>
+<text x="2177" y="572" font-size="20" font-weight="700" fill="#1a1a1a" class="booth-code">B704</text>
+<text x="2177" y="590.6" font-size="15.6" fill="#1a1a1a">책마당</text>
+</g>
+<clipPath id="clip_B609"><rect x="2665" y="897" width="53" height="167"/></clipPath>
+<g class="booth" data-booth="B609"><rect x="2665" y="897" width="53" height="167" fill="#FFFFFF" stroke="#9a9a9a" stroke-width="2.2" rx="3"/>
+<title>B609
+- 국가보훈부 (Ministry of Patriots and Veterans Affairs)</title>
+<text x="2669.24" y="918.74" font-size="17.5" font-weight="700" fill="#1a1a1a" class="booth-code">B609</text>
+<text x="2669.24" y="935.39" font-size="13.7" fill="#1a1a1a">국가보훈부</text>
+</g>
+    </g>
+  </svg>
