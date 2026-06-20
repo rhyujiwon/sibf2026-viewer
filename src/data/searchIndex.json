@@ -1,0 +1,3490 @@
+[
+  {
+    "booth": "A1001",
+    "jumpBooth": "A1001",
+    "nameKo": "주식회사 돌베개",
+    "nameEn": "dolbegae",
+    "cx": 1318.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1001",
+    "jumpBooth": "A1001",
+    "nameKo": "평산책방",
+    "nameEn": "pyeongsanbooks",
+    "cx": 1318.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1002",
+    "jumpBooth": "A1002",
+    "nameKo": "재단법인 아모레퍼시픽재단",
+    "nameEn": "Amorepacific Foundation",
+    "cx": 1501.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A101",
+    "jumpBooth": "A101",
+    "nameKo": "고스트북스",
+    "nameEn": "Ghost Books",
+    "cx": 219.5,
+    "cy": 3107.5
+  },
+  {
+    "booth": "A102",
+    "jumpBooth": "A102",
+    "nameKo": "별빛들",
+    "nameEn": "BYEOL BIT DEUL",
+    "cx": 219.5,
+    "cy": 3050.5
+  },
+  {
+    "booth": "A103",
+    "jumpBooth": "A103",
+    "nameKo": "도서출판부카",
+    "nameEn": "bookaa",
+    "cx": 219.5,
+    "cy": 2993.5
+  },
+  {
+    "booth": "A104",
+    "jumpBooth": "A104",
+    "nameKo": "봄봄출판사",
+    "nameEn": "Bombom Publishing Co.",
+    "cx": 219.5,
+    "cy": 2936.5
+  },
+  {
+    "booth": "A105",
+    "jumpBooth": "A105",
+    "nameKo": "단추 출판사",
+    "nameEn": "Danchu Press",
+    "cx": 345.5,
+    "cy": 3107.5
+  },
+  {
+    "booth": "A106",
+    "jumpBooth": "A106",
+    "nameKo": "밝은세상",
+    "nameEn": "Balgunsesang",
+    "cx": 345.5,
+    "cy": 3050.5
+  },
+  {
+    "booth": "A107",
+    "jumpBooth": "A107",
+    "nameKo": "애플트리테일즈",
+    "nameEn": "appletreetales",
+    "cx": 345.5,
+    "cy": 2993.5
+  },
+  {
+    "booth": "A108",
+    "jumpBooth": "A108",
+    "nameKo": "곰세마리",
+    "nameEn": "Gomsemari",
+    "cx": 345.5,
+    "cy": 2936.5
+  },
+  {
+    "booth": "A108",
+    "jumpBooth": "A108",
+    "nameKo": "도서출판 달리",
+    "nameEn": "Dahli Children's Books",
+    "cx": 345.5,
+    "cy": 2936.5
+  },
+  {
+    "booth": "A109",
+    "jumpBooth": "A109",
+    "nameKo": "핀드",
+    "nameEn": "Pinned",
+    "cx": 402.5,
+    "cy": 3107.5
+  },
+  {
+    "booth": "A110",
+    "jumpBooth": "A110",
+    "nameKo": "소동출판사",
+    "nameEn": "Sodong Publishing House",
+    "cx": 402.5,
+    "cy": 3050.5
+  },
+  {
+    "booth": "A1101",
+    "jumpBooth": "A1101",
+    "nameKo": "민음사 출판그룹",
+    "nameEn": "Minumsa Publishing Group",
+    "cx": 1721.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1101",
+    "jumpBooth": "A1101",
+    "nameKo": "황금가지",
+    "nameEn": "Goldenbough",
+    "cx": 1721.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1102",
+    "jumpBooth": "A1102",
+    "nameKo": "인플루엔셜",
+    "nameEn": "Influential",
+    "cx": 1955.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1102",
+    "jumpBooth": "A1102",
+    "nameKo": "윌라",
+    "nameEn": "Welaaa",
+    "cx": 1955.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1102",
+    "jumpBooth": "A1102",
+    "nameKo": "윌라스토리",
+    "nameEn": "WelaaaStory",
+    "cx": 1955.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1103",
+    "jumpBooth": "A1103",
+    "nameKo": "서울특별시 서울도서관",
+    "nameEn": "Seoul Metropolitan Library",
+    "cx": 2189.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1103",
+    "jumpBooth": "A1103",
+    "nameKo": "신한은행",
+    "nameEn": "Shinhan Bank",
+    "cx": 2189.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A111",
+    "jumpBooth": "A111",
+    "nameKo": "시사북스(빈페이지)",
+    "nameEn": "SISABOOKS(emptypage)",
+    "cx": 402.5,
+    "cy": 2993.5
+  },
+  {
+    "booth": "A112",
+    "jumpBooth": "A112",
+    "nameKo": "한국출판마케팅연구소",
+    "nameEn": "KOREA PUBLISH MARKETING",
+    "cx": 402.5,
+    "cy": 2936.5
+  },
+  {
+    "booth": "A113",
+    "jumpBooth": "A113",
+    "nameKo": "일러스트레이터스 월",
+    "nameEn": "Illustrators Wall",
+    "cx": 311.0,
+    "cy": 3190.5
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "타이완콘텐츠진흥원",
+    "nameEn": "TAICCA",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "CommonWealth Education Media and Publishing Co., Ltd.",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "DUMPLING CAT FAMILY",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "Hakka Affairs Council",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "JS Agency Co., Ltd.",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "KAWAII HYOKA / Caiji Art",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "Kuroro space exploration team / memes creative partnership co., ltd.",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "REVE BOOKS LTD., CO",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "Rye Field Publications, a division of Cite Publishing Ltd.",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "SpringHill Publishing",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "타코쿠마",
+    "nameEn": "TAKOKUMA / Sunthingood Co., Ltd.",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1201",
+    "jumpBooth": "A1201",
+    "nameKo": "",
+    "nameEn": "THE GRAYHAWK AGENCY",
+    "cx": 2432.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "주한태국대사관 상무공사관실",
+    "nameEn": "OFFICE OF COMMERCIAL AFFAIRS, ROYAL THAI EMBASSY, DITP",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "Amarin Corporations PCL",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "BANLUE PUBLICATIONS COMPANY LIMITED",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "Channasoot Publishing",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "Combang Publishing House Limited Partnership",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "DEXPRESS COMPANY LIMITED",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "Avocado Books (Earlgrey co.,ltd)",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "Glory Forever Public Company Limited",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "Golden C Creative contentCo.,Ltd.",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "HAPPYME-D CO., LTD.",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "Liatris publishing",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "MITMAKME Group",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "모카그룹",
+    "nameEn": "Mocca Group",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "유기적 링크",
+    "nameEn": "ORGANIC LINKS CO., LTD.",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "",
+    "nameEn": "Silkwormbooks",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1202",
+    "jumpBooth": "A1202",
+    "nameKo": "라이터 소울 태국",
+    "nameEn": "Writer Soul Thailand Corporation Ltd",
+    "cx": 2641.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A1203",
+    "jumpBooth": "A1203",
+    "nameKo": "",
+    "nameEn": "EC Publishing LLC",
+    "cx": 2795.5,
+    "cy": 2792.5
+  },
+  {
+    "booth": "A1204",
+    "jumpBooth": "A1204",
+    "nameKo": "",
+    "nameEn": "Studio of Books LLC",
+    "cx": 2795.5,
+    "cy": 2735.5
+  },
+  {
+    "booth": "A1205",
+    "jumpBooth": "A1205",
+    "nameKo": "퀴퍼 프린츠",
+    "nameEn": "Quipper Prints",
+    "cx": 2795.5,
+    "cy": 2678.5
+  },
+  {
+    "booth": "A1206",
+    "jumpBooth": "A1206",
+    "nameKo": "프로칠레",
+    "nameEn": "PROCHILE",
+    "cx": 2795.5,
+    "cy": 2621.5
+  },
+  {
+    "booth": "A1206",
+    "jumpBooth": "A1206",
+    "nameKo": "",
+    "nameEn": "Calcetines Animados",
+    "cx": 2795.5,
+    "cy": 2621.5
+  },
+  {
+    "booth": "A1206",
+    "jumpBooth": "A1206",
+    "nameKo": "",
+    "nameEn": "VLP Agency",
+    "cx": 2795.5,
+    "cy": 2621.5
+  },
+  {
+    "booth": "A1206",
+    "jumpBooth": "A1206",
+    "nameKo": "",
+    "nameEn": "Recrea Libros",
+    "cx": 2795.5,
+    "cy": 2621.5
+  },
+  {
+    "booth": "A1207",
+    "jumpBooth": "A1207",
+    "nameKo": "연변교육출판사",
+    "nameEn": "Yanbian Education Press",
+    "cx": 2795.5,
+    "cy": 2564.5
+  },
+  {
+    "booth": "A1207",
+    "jumpBooth": "A1207",
+    "nameKo": "연변인민출판사",
+    "nameEn": "Yanbian People's Press",
+    "cx": 2795.5,
+    "cy": 2564.5
+  },
+  {
+    "booth": "A1207",
+    "jumpBooth": "A1207",
+    "nameKo": "연변대학출판사",
+    "nameEn": "Yanbian University Press",
+    "cx": 2795.5,
+    "cy": 2564.5
+  },
+  {
+    "booth": "A1301",
+    "jumpBooth": "A1301",
+    "nameKo": "엣눈북스",
+    "nameEn": "ATNOONBOOKS",
+    "cx": 219.5,
+    "cy": 2477.5
+  },
+  {
+    "booth": "A1302",
+    "jumpBooth": "A1302",
+    "nameKo": "서사원 주식회사",
+    "nameEn": "SEOSAWON",
+    "cx": 219.5,
+    "cy": 2420.5
+  },
+  {
+    "booth": "A1303",
+    "jumpBooth": "A1303",
+    "nameKo": "프란츠",
+    "nameEn": "Franz",
+    "cx": 219.5,
+    "cy": 2363.5
+  },
+  {
+    "booth": "A1304",
+    "jumpBooth": "A1304",
+    "nameKo": "귤프레스",
+    "nameEn": "guulpress",
+    "cx": 219.5,
+    "cy": 2306.5
+  },
+  {
+    "booth": "A1305",
+    "jumpBooth": "A1305",
+    "nameKo": "고요한소리",
+    "nameEn": "Calm Voice Society",
+    "cx": 345.5,
+    "cy": 2477.5
+  },
+  {
+    "booth": "A1306",
+    "jumpBooth": "A1306",
+    "nameKo": "쿵프레스",
+    "nameEn": "Koong Press",
+    "cx": 345.5,
+    "cy": 2420.5
+  },
+  {
+    "booth": "A1307",
+    "jumpBooth": "A1307",
+    "nameKo": "한림출판사",
+    "nameEn": "HOLLYM CORP, PUBLISHERS",
+    "cx": 345.5,
+    "cy": 2363.5
+  },
+  {
+    "booth": "A1308",
+    "jumpBooth": "A1308",
+    "nameKo": "소장각",
+    "nameEn": "Sojanggak",
+    "cx": 345.5,
+    "cy": 2306.5
+  },
+  {
+    "booth": "A1308",
+    "jumpBooth": "A1308",
+    "nameKo": "비플랫폼",
+    "nameEn": "B-PLATFORM",
+    "cx": 345.5,
+    "cy": 2306.5
+  },
+  {
+    "booth": "A1309",
+    "jumpBooth": "A1309",
+    "nameKo": "(주)불광미디어",
+    "nameEn": "BULKWANG MEDIA",
+    "cx": 402.5,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1310",
+    "jumpBooth": "A1310",
+    "nameKo": "라의눈주식회사",
+    "nameEn": "Eye of Ra",
+    "cx": 402.5,
+    "cy": 2363.5
+  },
+  {
+    "booth": "A1311",
+    "jumpBooth": "A1311",
+    "nameKo": "유어마인드",
+    "nameEn": "YOURMIND",
+    "cx": 402.5,
+    "cy": 2306.5
+  },
+  {
+    "booth": "A1401",
+    "jumpBooth": "A1401",
+    "nameKo": "이룸아이",
+    "nameEn": "ErumI Publishing Co.",
+    "cx": 536.5,
+    "cy": 2477.5
+  },
+  {
+    "booth": "A1402",
+    "jumpBooth": "A1402",
+    "nameKo": "펜타클",
+    "nameEn": "pentacle",
+    "cx": 536.5,
+    "cy": 2420.5
+  },
+  {
+    "booth": "A1403",
+    "jumpBooth": "A1403",
+    "nameKo": "마음모자",
+    "nameEn": "Maummoja",
+    "cx": 536.5,
+    "cy": 2363.5
+  },
+  {
+    "booth": "A1404",
+    "jumpBooth": "A1404",
+    "nameKo": "스토리보울",
+    "nameEn": "STORYBOWL",
+    "cx": 536.5,
+    "cy": 2306.5
+  },
+  {
+    "booth": "A1405",
+    "jumpBooth": "A1405",
+    "nameKo": "몽당연필",
+    "nameEn": "mongdangpencil",
+    "cx": 593.5,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1405",
+    "jumpBooth": "A1405",
+    "nameKo": "구름이머무는동안",
+    "nameEn": "Cloud Stays Books",
+    "cx": 593.5,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1405",
+    "jumpBooth": "A1405",
+    "nameKo": "뜰힘",
+    "nameEn": "DDEULHIM",
+    "cx": 593.5,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1405",
+    "jumpBooth": "A1405",
+    "nameKo": "소유",
+    "nameEn": "SOYOU BOOKS",
+    "cx": 593.5,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1405",
+    "jumpBooth": "A1405",
+    "nameKo": "아르카",
+    "nameEn": "ARCA",
+    "cx": 593.5,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1405",
+    "jumpBooth": "A1405",
+    "nameKo": "지우",
+    "nameEn": "Jiwoo Publisher",
+    "cx": 593.5,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1406",
+    "jumpBooth": "A1406",
+    "nameKo": "(사)한국기독교출판협회",
+    "nameEn": "KCPA",
+    "cx": 593.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1406",
+    "jumpBooth": "A1406",
+    "nameKo": "도서출판 CUP",
+    "nameEn": "CUP (Christian University Press)",
+    "cx": 593.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1406",
+    "jumpBooth": "A1406",
+    "nameKo": "도서출판 동연",
+    "nameEn": "DongYeon press",
+    "cx": 593.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1406",
+    "jumpBooth": "A1406",
+    "nameKo": "문광서원",
+    "nameEn": "Mungwangbooks",
+    "cx": 593.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1406",
+    "jumpBooth": "A1406",
+    "nameKo": "바이블네비게이션(주)",
+    "nameEn": "Biblenavigation Inc.",
+    "cx": 593.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1406",
+    "jumpBooth": "A1406",
+    "nameKo": "블리스",
+    "nameEn": "BLISS",
+    "cx": 593.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1406",
+    "jumpBooth": "A1406",
+    "nameKo": "쿰란출판사",
+    "nameEn": "Qumran Publishing House",
+    "cx": 593.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1406",
+    "jumpBooth": "A1406",
+    "nameKo": "템북",
+    "nameEn": "TEMBOOK",
+    "cx": 593.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1407",
+    "jumpBooth": "A1407",
+    "nameKo": "아작",
+    "nameEn": "ARZAK",
+    "cx": 719.5,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1408",
+    "jumpBooth": "A1408",
+    "nameKo": "(주)이퍼블릭 코리아",
+    "nameEn": "tiramisu the book, safari",
+    "cx": 719.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1409",
+    "jumpBooth": "A1409",
+    "nameKo": "도서출판 키다리",
+    "nameEn": "Kidari Publishing Co.",
+    "cx": 776.5,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1410",
+    "jumpBooth": "A1410",
+    "nameKo": "에디토리얼",
+    "nameEn": "Editorial Publishing Co.",
+    "cx": 776.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1410",
+    "jumpBooth": "A1410",
+    "nameKo": "가지출판사",
+    "nameEn": "Kindsbook Publishing Company",
+    "cx": 776.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1410",
+    "jumpBooth": "A1410",
+    "nameKo": "메멘토",
+    "nameEn": "Memento Publishing Co.",
+    "cx": 776.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1410",
+    "jumpBooth": "A1410",
+    "nameKo": "목수책방",
+    "nameEn": "Moksu Publishing Company",
+    "cx": 776.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1410",
+    "jumpBooth": "A1410",
+    "nameKo": "혜화1117",
+    "nameEn": "Hyehwa1117 Publishing Company",
+    "cx": 776.5,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1501",
+    "jumpBooth": "A1501",
+    "nameKo": "시공사",
+    "nameEn": "SIGONGSA",
+    "cx": 939.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1502",
+    "jumpBooth": "A1502",
+    "nameKo": "전국동네책방네트워크",
+    "nameEn": "Korea Local bookshop network",
+    "cx": 939.0,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1503",
+    "jumpBooth": "A1503",
+    "nameKo": "엘르 코리아",
+    "nameEn": "ELLE Korea",
+    "cx": 1122.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1601",
+    "jumpBooth": "A1601",
+    "nameKo": "(주)열린책들",
+    "nameEn": "The Open Books Co.",
+    "cx": 1318.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1602",
+    "jumpBooth": "A1602",
+    "nameKo": "(주)오팬하우스",
+    "nameEn": "OFANHOUSE",
+    "cx": 1501.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1701",
+    "jumpBooth": "A1701",
+    "nameKo": "교보문고",
+    "nameEn": "KYOBO BOOK CENTRE",
+    "cx": 1721.5,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1701",
+    "jumpBooth": "A1701",
+    "nameKo": "교보생명 서재",
+    "nameEn": "Kyobo Life",
+    "cx": 1721.5,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1702",
+    "jumpBooth": "A1702",
+    "nameKo": "주식회사 케이티밀리의서재",
+    "nameEn": "kt millie seojae Co.,Ltd",
+    "cx": 1955.5,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1703",
+    "jumpBooth": "A1703",
+    "nameKo": "예스24",
+    "nameEn": "YES24",
+    "cx": 2189.5,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Livres Canada Books",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Annick Press",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "BookLand Press",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Drawn & Quarterly",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Éditions Alto",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Éditions Fonfon",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Éditions Michel Quintin",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Éditions Québec Amérique",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Firefly Books",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Les Éditions les Malins",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "McGill-Queen's University Press",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "Orca Book Publishers",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1801",
+    "jumpBooth": "A1801",
+    "nameKo": "",
+    "nameEn": "University of Toronto Press",
+    "cx": 2457.0,
+    "cy": 2449.0
+  },
+  {
+    "booth": "A1802",
+    "jumpBooth": "A1802",
+    "nameKo": "펭귄랜덤하우스 UK",
+    "nameEn": "Penguin Randomhouse UK",
+    "cx": 2457.0,
+    "cy": 2335.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "독일 프랑크푸르트도서전",
+    "nameEn": "Frankfurter Buchmesse",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "Arbeitsgemeinschaft von Jugendbuchverlagen e.V.",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "Droemer Knaur Publishing Group",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "Dunkcer & Humblot GmbH",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "German Pavilion",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "주한독일문화원",
+    "nameEn": "Goethe-Institut Korea",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "Kiepenheuer & Witsch",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "모어 지베크",
+    "nameEn": "Mohr Siebeck GmbH & Co. KG",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "MuseARTa GmbH",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "Palomaa Publishing",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "Rowohlt Verlag GmbH",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "Schweizerbart/Borntraeger Science Publishers",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1803",
+    "jumpBooth": "A1803",
+    "nameKo": "",
+    "nameEn": "Ullstein Buchverlage GmbH",
+    "cx": 2642.0,
+    "cy": 2392.0
+  },
+  {
+    "booth": "A1804",
+    "jumpBooth": "A1804",
+    "nameKo": "",
+    "nameEn": "YUEWEN|WebNovel",
+    "cx": 2796.5,
+    "cy": 2477.5
+  },
+  {
+    "booth": "A1805",
+    "jumpBooth": "A1805",
+    "nameKo": "",
+    "nameEn": "Beijiao Children Joy Education & Technology (Beijing) Co., Ltd.",
+    "cx": 2796.5,
+    "cy": 2420.5
+  },
+  {
+    "booth": "A1806",
+    "jumpBooth": "A1806",
+    "nameKo": "",
+    "nameEn": "Wells Hamilton Literary Consultants",
+    "cx": 2796.5,
+    "cy": 2363.5
+  },
+  {
+    "booth": "A1901",
+    "jumpBooth": "A1901",
+    "nameKo": "책만남홀2",
+    "nameEn": "Readers Hall 2",
+    "cx": 252.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A1902",
+    "jumpBooth": "A1902",
+    "nameKo": "아트숍",
+    "nameEn": "Art Shop",
+    "cx": 404.5,
+    "cy": 2111.5
+  },
+  {
+    "booth": "A1904",
+    "jumpBooth": "A1904",
+    "nameKo": "갈라파고스",
+    "nameEn": "Galapagos",
+    "cx": 467.5,
+    "cy": 2162.5
+  },
+  {
+    "booth": "A1905",
+    "jumpBooth": "A1905",
+    "nameKo": "도서출판 들녘",
+    "nameEn": "Dulnyouk Publishing Co.",
+    "cx": 467.5,
+    "cy": 2105.5
+  },
+  {
+    "booth": "A1906",
+    "jumpBooth": "A1906",
+    "nameKo": "원더박스",
+    "nameEn": "WONDERBOX",
+    "cx": 467.5,
+    "cy": 2048.5
+  },
+  {
+    "booth": "A1907",
+    "jumpBooth": "A1907",
+    "nameKo": "(주)크레용하우스",
+    "nameEn": "Crayonhouse. co. Ltd",
+    "cx": 467.5,
+    "cy": 1991.5
+  },
+  {
+    "booth": "A2001",
+    "jumpBooth": "A2001",
+    "nameKo": "생명의말씀사",
+    "nameEn": "WORD OF LIFE PRESS",
+    "cx": 601.5,
+    "cy": 2162.5
+  },
+  {
+    "booth": "A2002",
+    "jumpBooth": "A2002",
+    "nameKo": "성서유니온",
+    "nameEn": "Scripture Union Korea",
+    "cx": 601.5,
+    "cy": 2105.5
+  },
+  {
+    "booth": "A2003",
+    "jumpBooth": "A2003",
+    "nameKo": "도서출판 폭스코너",
+    "nameEn": "Foxcorner Publishing House",
+    "cx": 601.5,
+    "cy": 2048.5
+  },
+  {
+    "booth": "A2003",
+    "jumpBooth": "A2003",
+    "nameKo": "도서출판 다독다독",
+    "nameEn": "Dadokdadok Publishing",
+    "cx": 601.5,
+    "cy": 2048.5
+  },
+  {
+    "booth": "A2004",
+    "jumpBooth": "A2004",
+    "nameKo": "안온북스",
+    "nameEn": "anonbooks",
+    "cx": 601.5,
+    "cy": 1991.5
+  },
+  {
+    "booth": "A2005",
+    "jumpBooth": "A2005",
+    "nameKo": "청미출판사",
+    "nameEn": "CHEONGMI PUBLISHING CO.",
+    "cx": 658.5,
+    "cy": 2162.5
+  },
+  {
+    "booth": "A2006",
+    "jumpBooth": "A2006",
+    "nameKo": "캠퍼스북",
+    "nameEn": "CAMPUSBOOK",
+    "cx": 658.5,
+    "cy": 2105.5
+  },
+  {
+    "booth": "A2007",
+    "jumpBooth": "A2007",
+    "nameKo": "잉글리시에그",
+    "nameEn": "ENGLISHEGG",
+    "cx": 658.5,
+    "cy": 2048.5
+  },
+  {
+    "booth": "A2008",
+    "jumpBooth": "A2008",
+    "nameKo": "우리나비",
+    "nameEn": "Woorinabi Publishing Co.",
+    "cx": 658.5,
+    "cy": 1991.5
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "한국출판문화산업진흥원",
+    "nameEn": "Publication Industry Promotion Agency of Korea",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "그리모어",
+    "nameEn": "Grimoire",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "나무의말",
+    "nameEn": "Words of Trees",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "다정한시민",
+    "nameEn": "Friendly Citizen",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "도서출판 11%",
+    "nameEn": "11% Publishing",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "도서출판 어웨이크",
+    "nameEn": "AWAKE PUBLISHING HOUSE",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "문학정원",
+    "nameEn": "Munhak Garden",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "빅퀘스천 출판사",
+    "nameEn": "Big Questions Publishing Co.",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "스타라잇 출판사",
+    "nameEn": "Starlight books",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "아트레이크 출판사",
+    "nameEn": "ARTLAKE Inc",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "좋은습관연구소",
+    "nameEn": "Good Habits Lab",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "쥬쥬베북스",
+    "nameEn": "jujube books",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "책과바람",
+    "nameEn": "Book&Wish Publisher",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "한밤의빛",
+    "nameEn": "HANBAMBIT",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "허밍북스",
+    "nameEn": "HUMMINGBOOKS",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "호랑이꿈",
+    "nameEn": "Tigerdream Books",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2009",
+    "jumpBooth": "A2009",
+    "nameKo": "호손재",
+    "nameEn": "Hosonjae",
+    "cx": 813.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A201",
+    "jumpBooth": "A201",
+    "nameKo": "안그라픽스",
+    "nameEn": "Ahn Graphics",
+    "cx": 536.5,
+    "cy": 3107.5
+  },
+  {
+    "booth": "A2010",
+    "jumpBooth": "A2010",
+    "nameKo": "주식회사 난다",
+    "nameEn": "Nanda",
+    "cx": 813.0,
+    "cy": 2020.0
+  },
+  {
+    "booth": "A202",
+    "jumpBooth": "A202",
+    "nameKo": "미디어버스",
+    "nameEn": "Mediabus",
+    "cx": 536.5,
+    "cy": 3050.5
+  },
+  {
+    "booth": "A202",
+    "jumpBooth": "A202",
+    "nameKo": "사월의눈",
+    "nameEn": "Aprilsnow Press",
+    "cx": 536.5,
+    "cy": 3050.5
+  },
+  {
+    "booth": "A202",
+    "jumpBooth": "A202",
+    "nameKo": "프로파간다",
+    "nameEn": "propaganda",
+    "cx": 536.5,
+    "cy": 3050.5
+  },
+  {
+    "booth": "A203",
+    "jumpBooth": "A203",
+    "nameKo": "인북",
+    "nameEn": "INBOOK",
+    "cx": 536.5,
+    "cy": 2993.5
+  },
+  {
+    "booth": "A204",
+    "jumpBooth": "A204",
+    "nameKo": "안녕로빈",
+    "nameEn": "hellorobin",
+    "cx": 536.5,
+    "cy": 2936.5
+  },
+  {
+    "booth": "A205",
+    "jumpBooth": "A205",
+    "nameKo": "킨더랜드+반달+여섯번째봄",
+    "nameEn": "KINDERLAND+BANDAL+THE SIXTH SPRING",
+    "cx": 593.5,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A206",
+    "jumpBooth": "A206",
+    "nameKo": "(주)학토재",
+    "nameEn": "HAKTOJAE",
+    "cx": 593.5,
+    "cy": 2965.0
+  },
+  {
+    "booth": "A207",
+    "jumpBooth": "A207",
+    "nameKo": "노란상상",
+    "nameEn": "Noran Sangsang Books",
+    "cx": 719.5,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A208",
+    "jumpBooth": "A208",
+    "nameKo": "(주)도서출판보리",
+    "nameEn": "BORI",
+    "cx": 719.5,
+    "cy": 2965.0
+  },
+  {
+    "booth": "A209",
+    "jumpBooth": "A209",
+    "nameKo": "니케북스",
+    "nameEn": "nikebooks",
+    "cx": 776.5,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A209",
+    "jumpBooth": "A209",
+    "nameKo": "목요일출판사",
+    "nameEn": "mokyoil",
+    "cx": 776.5,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A209",
+    "jumpBooth": "A209",
+    "nameKo": "페이퍼스토리",
+    "nameEn": "PAPERSTORY BOOKS",
+    "cx": 776.5,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A210",
+    "jumpBooth": "A210",
+    "nameKo": "거북이북스",
+    "nameEn": "GOBOOKY BOOKS",
+    "cx": 776.5,
+    "cy": 2965.0
+  },
+  {
+    "booth": "A2101",
+    "jumpBooth": "A2101",
+    "nameKo": "사회평론",
+    "nameEn": "sahoipyoungnon",
+    "cx": 1004.0,
+    "cy": 2134.0
+  },
+  {
+    "booth": "A2102",
+    "jumpBooth": "A2102",
+    "nameKo": "오이뮤",
+    "nameEn": "OIMU",
+    "cx": 1004.0,
+    "cy": 2020.0
+  },
+  {
+    "booth": "A2103",
+    "jumpBooth": "A2103",
+    "nameKo": "은행나무",
+    "nameEn": "EunHaengNaMu",
+    "cx": 1187.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2103",
+    "jumpBooth": "A2103",
+    "nameKo": "(주)휴머니스트 출판그룹",
+    "nameEn": "Humanist Publishing Group",
+    "cx": 1187.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2201",
+    "jumpBooth": "A2201",
+    "nameKo": "길벗어린이",
+    "nameEn": "Gilbut Children Publishing",
+    "cx": 1378.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2202",
+    "jumpBooth": "A2202",
+    "nameKo": "문학과지성사",
+    "nameEn": "Moonji Publishing Co., Ltd",
+    "cx": 1561.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2203",
+    "jumpBooth": "A2203",
+    "nameKo": "소전문화재단",
+    "nameEn": "Sojeon Foundation",
+    "cx": 1744.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2301",
+    "jumpBooth": "A2301",
+    "nameKo": "서울특별시교육청",
+    "nameEn": "Seoul Metropolitan Office of Education",
+    "cx": 1935.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2302",
+    "jumpBooth": "A2302",
+    "nameKo": "마음산책",
+    "nameEn": "MAUMSANCHAEK",
+    "cx": 2118.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2302",
+    "jumpBooth": "A2302",
+    "nameKo": "사계절출판사",
+    "nameEn": "SAKYEJUL",
+    "cx": 2118.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2303",
+    "jumpBooth": "A2303",
+    "nameKo": "디자인하우스",
+    "nameEn": "Designhouse",
+    "cx": 2301.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2303",
+    "jumpBooth": "A2303",
+    "nameKo": "주식회사 오뚜기",
+    "nameEn": "OTOKI Corporation",
+    "cx": 2301.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2401",
+    "jumpBooth": "A2401",
+    "nameKo": "타이베이도서전재단",
+    "nameEn": "Taipei Book Fair Foundation",
+    "cx": 2492.0,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A2402",
+    "jumpBooth": "A2402",
+    "nameKo": "책만남홀1",
+    "nameEn": "Readers Hall 1",
+    "cx": 2721.5,
+    "cy": 2077.0
+  },
+  {
+    "booth": "A301",
+    "jumpBooth": "A301",
+    "nameKo": "워크룸 프레스",
+    "nameEn": "Workroom Press",
+    "cx": 910.5,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A302",
+    "jumpBooth": "A302",
+    "nameKo": "산지니",
+    "nameEn": "Sanzini",
+    "cx": 910.5,
+    "cy": 2965.0
+  },
+  {
+    "booth": "A303",
+    "jumpBooth": "A303",
+    "nameKo": "까치글방",
+    "nameEn": "Kachi Publishing Co., Ltd.",
+    "cx": 968.5,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A304",
+    "jumpBooth": "A304",
+    "nameKo": "글항아리",
+    "nameEn": "GEULHANGARI",
+    "cx": 968.5,
+    "cy": 2965.0
+  },
+  {
+    "booth": "A305",
+    "jumpBooth": "A305",
+    "nameKo": "청아출판사 / 봄마중",
+    "nameEn": "ChungA Publishing Co.",
+    "cx": 1094.5,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A306",
+    "jumpBooth": "A306",
+    "nameKo": "도서출판 풀빛",
+    "nameEn": "Pulbit",
+    "cx": 1094.5,
+    "cy": 2965.0
+  },
+  {
+    "booth": "A307",
+    "jumpBooth": "A307",
+    "nameKo": "도서출판 푸른숲",
+    "nameEn": "PRUNSOOP publisher",
+    "cx": 1152.5,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A308",
+    "jumpBooth": "A308",
+    "nameKo": "(사)한국과학기술출판협회",
+    "nameEn": "Korean Science & Technology Publishers Association",
+    "cx": 1152.5,
+    "cy": 2965.0
+  },
+  {
+    "booth": "A308",
+    "jumpBooth": "A308",
+    "nameKo": "군자출판사",
+    "nameEn": "KOONJA Publishing Inc.",
+    "cx": 1152.5,
+    "cy": 2965.0
+  },
+  {
+    "booth": "A401",
+    "jumpBooth": "A401",
+    "nameKo": "보림출판사",
+    "nameEn": "BORIMPRESS",
+    "cx": 1318.0,
+    "cy": 3079.0
+  },
+  {
+    "booth": "A402",
+    "jumpBooth": "A402",
+    "nameKo": "네이버웹툰",
+    "nameEn": "NAVER WEBTOON",
+    "cx": 1318.0,
+    "cy": 2965.0
+  },
+  {
+    "booth": "A403",
+    "jumpBooth": "A403",
+    "nameKo": "(주)위즈덤하우스",
+    "nameEn": "WISDOMHOUSE",
+    "cx": 1501.0,
+    "cy": 3022.0
+  },
+  {
+    "booth": "A501",
+    "jumpBooth": "A501",
+    "nameKo": "이야기장수",
+    "nameEn": "STORYSELLER",
+    "cx": 1721.5,
+    "cy": 3022.0
+  },
+  {
+    "booth": "A501",
+    "jumpBooth": "A501",
+    "nameKo": "솔테라이브러리",
+    "nameEn": "Salté Library",
+    "cx": 1721.5,
+    "cy": 3022.0
+  },
+  {
+    "booth": "A502",
+    "jumpBooth": "A502",
+    "nameKo": "(주)김영사",
+    "nameEn": "Gimmyoung Publishers",
+    "cx": 1955.5,
+    "cy": 3022.0
+  },
+  {
+    "booth": "A503",
+    "jumpBooth": "A503",
+    "nameKo": "(주)문학수첩",
+    "nameEn": "MoonhakSoochup",
+    "cx": 2189.5,
+    "cy": 3022.0
+  },
+  {
+    "booth": "A601",
+    "jumpBooth": "A601",
+    "nameKo": "주한프랑스대사관 문화과",
+    "nameEn": "Embassy of France in the Republic of Korea",
+    "cx": 2495.5,
+    "cy": 3022.0
+  },
+  {
+    "booth": "A601",
+    "jumpBooth": "A601",
+    "nameKo": "프랑스 출판네트워크 (구 : 프랑스국제출판사무국)",
+    "nameEn": "France Livre (formerly BIEF)",
+    "cx": 2495.5,
+    "cy": 3022.0
+  },
+  {
+    "booth": "A602",
+    "jumpBooth": "A602",
+    "nameKo": "(주)쌤앤파커스",
+    "nameEn": "Sam & Parkers Co., Ltd.",
+    "cx": 2767.0,
+    "cy": 3022.0
+  },
+  {
+    "booth": "A701",
+    "jumpBooth": "A701",
+    "nameKo": "봄알람",
+    "nameEn": "baumealame",
+    "cx": 219.5,
+    "cy": 2792.5
+  },
+  {
+    "booth": "A702",
+    "jumpBooth": "A702",
+    "nameKo": "타이피스트",
+    "nameEn": "Typist Press",
+    "cx": 219.5,
+    "cy": 2735.5
+  },
+  {
+    "booth": "A703",
+    "jumpBooth": "A703",
+    "nameKo": "사단법인 한국대학출판협회",
+    "nameEn": "THE ASSOCIATION OF KOREAN UNIVERSITY PRESSES",
+    "cx": 219.5,
+    "cy": 2678.5
+  },
+  {
+    "booth": "A704",
+    "jumpBooth": "A704",
+    "nameKo": "도서출판 북극곰",
+    "nameEn": "BOOKGOODCOME",
+    "cx": 219.5,
+    "cy": 2621.5
+  },
+  {
+    "booth": "A705",
+    "jumpBooth": "A705",
+    "nameKo": "국민서관",
+    "nameEn": "KOOKMINBOOKS",
+    "cx": 345.5,
+    "cy": 2792.5
+  },
+  {
+    "booth": "A706",
+    "jumpBooth": "A706",
+    "nameKo": "주식회사 성안당",
+    "nameEn": "SungAnDang Publishing Inc.",
+    "cx": 345.5,
+    "cy": 2707.0
+  },
+  {
+    "booth": "A707",
+    "jumpBooth": "A707",
+    "nameKo": "책읽는고양이",
+    "nameEn": "Reading Cat",
+    "cx": 345.5,
+    "cy": 2621.5
+  },
+  {
+    "booth": "A708",
+    "jumpBooth": "A708",
+    "nameKo": "소미미디어",
+    "nameEn": "SOMYMEDIA Inc.",
+    "cx": 402.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A709",
+    "jumpBooth": "A709",
+    "nameKo": "고래인",
+    "nameEn": "goraein",
+    "cx": 402.5,
+    "cy": 2650.0
+  },
+  {
+    "booth": "A709",
+    "jumpBooth": "A709",
+    "nameKo": "키큰도토리",
+    "nameEn": "Kikeundotori Publishing Co.",
+    "cx": 402.5,
+    "cy": 2650.0
+  },
+  {
+    "booth": "A801",
+    "jumpBooth": "A801",
+    "nameKo": "부산출판문화산업협회",
+    "nameEn": "Busan Publishing and Culture Industry Association",
+    "cx": 536.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A801",
+    "jumpBooth": "A801",
+    "nameKo": "고양이함수",
+    "nameEn": "Cat Function",
+    "cx": 536.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A801",
+    "jumpBooth": "A801",
+    "nameKo": "공공북스",
+    "nameEn": "Gonggong books",
+    "cx": 536.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A801",
+    "jumpBooth": "A801",
+    "nameKo": "냥이의야옹",
+    "nameEn": "NYAONGBOOKS",
+    "cx": 536.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A801",
+    "jumpBooth": "A801",
+    "nameKo": "뮤트스튜디오",
+    "nameEn": "Muut Studio",
+    "cx": 536.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A801",
+    "jumpBooth": "A801",
+    "nameKo": "씨엘미디어",
+    "nameEn": "CLmedia",
+    "cx": 536.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A801",
+    "jumpBooth": "A801",
+    "nameKo": "해피북미디어",
+    "nameEn": "happybook media",
+    "cx": 536.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A802",
+    "jumpBooth": "A802",
+    "nameKo": "주식회사 소원나무",
+    "nameEn": "SOWONNAMU PUBLISHING CO,. LTD.",
+    "cx": 536.5,
+    "cy": 2650.0
+  },
+  {
+    "booth": "A803",
+    "jumpBooth": "A803",
+    "nameKo": "뜨인돌출판",
+    "nameEn": "Danielstone Publishing",
+    "cx": 593.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A804",
+    "jumpBooth": "A804",
+    "nameKo": "밝은미래",
+    "nameEn": "Balgeunmirae Publishing Co",
+    "cx": 593.5,
+    "cy": 2650.0
+  },
+  {
+    "booth": "A805",
+    "jumpBooth": "A805",
+    "nameKo": "도서출판 동녘",
+    "nameEn": "Dongnyok publishers",
+    "cx": 719.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A806",
+    "jumpBooth": "A806",
+    "nameKo": "클레이하우스 주식회사",
+    "nameEn": "CLAYHOUSE",
+    "cx": 719.5,
+    "cy": 2650.0
+  },
+  {
+    "booth": "A807",
+    "jumpBooth": "A807",
+    "nameKo": "보스토크 프레스",
+    "nameEn": "VOSTOK PRESS",
+    "cx": 776.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A807",
+    "jumpBooth": "A807",
+    "nameKo": "프리즘오브",
+    "nameEn": "PRISM OF",
+    "cx": 776.5,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A808",
+    "jumpBooth": "A808",
+    "nameKo": "진선출판사",
+    "nameEn": "Jinsun Publishing",
+    "cx": 776.5,
+    "cy": 2650.0
+  },
+  {
+    "booth": "A901",
+    "jumpBooth": "A901",
+    "nameKo": "윌북",
+    "nameEn": "Willbooks Publishing Co.",
+    "cx": 939.0,
+    "cy": 2764.0
+  },
+  {
+    "booth": "A902",
+    "jumpBooth": "A902",
+    "nameKo": "더중앙플러스",
+    "nameEn": "The JoongAng Plus",
+    "cx": 939.0,
+    "cy": 2650.0
+  },
+  {
+    "booth": "A903",
+    "jumpBooth": "A903",
+    "nameKo": "동아시아·허블",
+    "nameEn": "EAST-ASIA·Hubble",
+    "cx": 1122.0,
+    "cy": 2707.0
+  },
+  {
+    "booth": "B101",
+    "jumpBooth": "B101",
+    "nameKo": "어크로스",
+    "nameEn": "Across Publishing Group, Inc",
+    "cx": 1699.5,
+    "cy": 1621.0
+  },
+  {
+    "booth": "B102",
+    "jumpBooth": "B102",
+    "nameKo": "움직씨 출판사",
+    "nameEn": "Oomzicc Publisher",
+    "cx": 1699.5,
+    "cy": 1535.5
+  },
+  {
+    "booth": "B102",
+    "jumpBooth": "B102",
+    "nameKo": "오리집",
+    "nameEn": "ORIZIP",
+    "cx": 1699.5,
+    "cy": 1535.5
+  },
+  {
+    "booth": "B103",
+    "jumpBooth": "B103",
+    "nameKo": "(주)책읽는곰",
+    "nameEn": "Bear Books Inc.",
+    "cx": 1699.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B104",
+    "jumpBooth": "B104",
+    "nameKo": "페이퍼독",
+    "nameEn": "PAPERDOG",
+    "cx": 1825.5,
+    "cy": 1621.0
+  },
+  {
+    "booth": "B104",
+    "jumpBooth": "B104",
+    "nameKo": "토끼섬",
+    "nameEn": "Tokkiseom",
+    "cx": 1825.5,
+    "cy": 1621.0
+  },
+  {
+    "booth": "B105",
+    "jumpBooth": "B105",
+    "nameKo": "송송책방",
+    "nameEn": "SONGSONG BOOKS",
+    "cx": 1825.5,
+    "cy": 1535.5
+  },
+  {
+    "booth": "B106",
+    "jumpBooth": "B106",
+    "nameKo": "꿈공장플러스",
+    "nameEn": "DREAMBOOKS",
+    "cx": 1825.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B107",
+    "jumpBooth": "B107",
+    "nameKo": "아카넷",
+    "nameEn": "Acanet",
+    "cx": 1882.5,
+    "cy": 1621.0
+  },
+  {
+    "booth": "B108",
+    "jumpBooth": "B108",
+    "nameKo": "디자인이음",
+    "nameEn": "designEUM",
+    "cx": 1882.5,
+    "cy": 1535.5
+  },
+  {
+    "booth": "B109",
+    "jumpBooth": "B109",
+    "nameKo": "컬처룩",
+    "nameEn": "culturelook",
+    "cx": 1882.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B109",
+    "jumpBooth": "B109",
+    "nameKo": "코쿤북스",
+    "nameEn": "cocoonbooks",
+    "cx": 1882.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B201",
+    "jumpBooth": "B201",
+    "nameKo": "유유출판사",
+    "nameEn": "UU PRESS",
+    "cx": 2008.5,
+    "cy": 1621.0
+  },
+  {
+    "booth": "B202",
+    "jumpBooth": "B202",
+    "nameKo": "바람북스",
+    "nameEn": "BARAMBOOKS",
+    "cx": 2008.5,
+    "cy": 1535.5
+  },
+  {
+    "booth": "B203",
+    "jumpBooth": "B203",
+    "nameKo": "레모 출판사",
+    "nameEn": "LES MOTS",
+    "cx": 2008.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B203",
+    "jumpBooth": "B203",
+    "nameKo": "스위밍꿀",
+    "nameEn": "SWIMMINGKUL",
+    "cx": 2008.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B204",
+    "jumpBooth": "B204",
+    "nameKo": "주식회사 도서출판점자",
+    "nameEn": "Braille Publishing Company",
+    "cx": 2065.5,
+    "cy": 1621.0
+  },
+  {
+    "booth": "B205",
+    "jumpBooth": "B205",
+    "nameKo": "후즈갓마이테일",
+    "nameEn": "Whos Got My Tail",
+    "cx": 2065.5,
+    "cy": 1535.5
+  },
+  {
+    "booth": "B206",
+    "jumpBooth": "B206",
+    "nameKo": "흰토끼프레스(바캉스프로젝트)",
+    "nameEn": "Hintoki Press(Vacances)",
+    "cx": 2065.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B207",
+    "jumpBooth": "B207",
+    "nameKo": "SIBF × 글월 〈페이지 사이의 우체국〉",
+    "nameEn": "SIBF × geulwoll 〈The Post Office Between the Pages〉",
+    "cx": 2005.5,
+    "cy": 1759.5
+  },
+  {
+    "booth": "B301",
+    "jumpBooth": "B301",
+    "nameKo": "도서출판 노란돼지",
+    "nameEn": "Yellowpig publisher",
+    "cx": 2188.5,
+    "cy": 1621.0
+  },
+  {
+    "booth": "B302",
+    "jumpBooth": "B302",
+    "nameKo": "늘보의 섬",
+    "nameEn": "SLOTH ISLAND",
+    "cx": 2188.5,
+    "cy": 1535.5
+  },
+  {
+    "booth": "B303",
+    "jumpBooth": "B303",
+    "nameKo": "(주)창비교육",
+    "nameEn": "CHANGBIEDU",
+    "cx": 2188.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B304",
+    "jumpBooth": "B304",
+    "nameKo": "서해문집",
+    "nameEn": "Booksea Publishing Co.",
+    "cx": 2245.5,
+    "cy": 1621.0
+  },
+  {
+    "booth": "B305",
+    "jumpBooth": "B305",
+    "nameKo": "한림사",
+    "nameEn": "HANLIMSA",
+    "cx": 2245.5,
+    "cy": 1535.5
+  },
+  {
+    "booth": "B306",
+    "jumpBooth": "B306",
+    "nameKo": "나비클럽",
+    "nameEn": "NABICLUB",
+    "cx": 2245.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B307",
+    "jumpBooth": "B307",
+    "nameKo": "국립생태원",
+    "nameEn": "NIE PRESS",
+    "cx": 2371.5,
+    "cy": 1621.0
+  },
+  {
+    "booth": "B308",
+    "jumpBooth": "B308",
+    "nameKo": "퍼머넌트북스",
+    "nameEn": "Permanent Books",
+    "cx": 2371.5,
+    "cy": 1535.5
+  },
+  {
+    "booth": "B309",
+    "jumpBooth": "B309",
+    "nameKo": "주식회사 한겨레엔",
+    "nameEn": "Hankyoreh En Co., Ltd.",
+    "cx": 2371.5,
+    "cy": 1450.0
+  },
+  {
+    "booth": "B400",
+    "jumpBooth": "B400",
+    "nameKo": "책마을",
+    "nameEn": "Book Village",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B401",
+    "jumpBooth": "B400",
+    "nameKo": "누땡스",
+    "nameEn": "nu thanks",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B402",
+    "jumpBooth": "B400",
+    "nameKo": "텍스트 프레스",
+    "nameEn": "textpress.kr",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B403",
+    "jumpBooth": "B400",
+    "nameKo": "프레스탁!",
+    "nameEn": "press tac!",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B404",
+    "jumpBooth": "B400",
+    "nameKo": "225호",
+    "nameEn": "Room Number 225",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B405",
+    "jumpBooth": "B400",
+    "nameKo": "라마북스",
+    "nameEn": "LLAMA BOOKS",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B406",
+    "jumpBooth": "B400",
+    "nameKo": "비바 헤리티지 시리즈",
+    "nameEn": "Viva Heritage Series",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B407",
+    "jumpBooth": "B400",
+    "nameKo": "라우더북스",
+    "nameEn": "Louder Books",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B408",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Fidèle éditions",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B409",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Owl & Dog Playbooks",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B410",
+    "jumpBooth": "B400",
+    "nameKo": "프레스룸",
+    "nameEn": "PRESS ROOM",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B411",
+    "jumpBooth": "B400",
+    "nameKo": "히스테리안",
+    "nameEn": "Hysterian",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B412",
+    "jumpBooth": "B400",
+    "nameKo": "행복한 재수가 있는",
+    "nameEn": "Happy Jaesu Press",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B413",
+    "jumpBooth": "B400",
+    "nameKo": "두낫프레스?프레스!",
+    "nameEn": "donotpress?press!",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B414",
+    "jumpBooth": "B400",
+    "nameKo": "자인운트",
+    "nameEn": "Seinund",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B415",
+    "jumpBooth": "B400",
+    "nameKo": "유연성클럽",
+    "nameEn": "THE FLEXIBILITY CLUB",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B416",
+    "jumpBooth": "B400",
+    "nameKo": "메이커메이커",
+    "nameEn": "MAKERMAKER",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B417",
+    "jumpBooth": "B400",
+    "nameKo": "0.1",
+    "nameEn": "0.1",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B418",
+    "jumpBooth": "B400",
+    "nameKo": "검정프레스",
+    "nameEn": "geomjung press",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B419",
+    "jumpBooth": "B400",
+    "nameKo": "써니라운드",
+    "nameEn": "SUNNYROUND",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B420",
+    "jumpBooth": "B400",
+    "nameKo": "픽션들",
+    "nameEn": "fictiondle",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B421",
+    "jumpBooth": "B400",
+    "nameKo": "남섬책방",
+    "nameEn": "Namseom Books",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B422",
+    "jumpBooth": "B400",
+    "nameKo": "시네필 책방 코프키노",
+    "nameEn": "KopfKino",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B423",
+    "jumpBooth": "B400",
+    "nameKo": "요호이",
+    "nameEn": "yohoi",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B424",
+    "jumpBooth": "B400",
+    "nameKo": "스튜디오604",
+    "nameEn": "STUDIO604",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B425",
+    "jumpBooth": "B400",
+    "nameKo": "돛과닻",
+    "nameEn": "Sail and Anchor",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B426",
+    "jumpBooth": "B400",
+    "nameKo": "스크립토",
+    "nameEn": "Scripto",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B427",
+    "jumpBooth": "B400",
+    "nameKo": "타바코북스",
+    "nameEn": "TABACOBOOKS",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B428",
+    "jumpBooth": "B400",
+    "nameKo": "머쉬룸",
+    "nameEn": "mushRoom",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B429",
+    "jumpBooth": "B400",
+    "nameKo": "소환사",
+    "nameEn": "Sohwansa",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B430",
+    "jumpBooth": "B400",
+    "nameKo": "마그네틱 파이브",
+    "nameEn": "MAGNETIC 5",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B431",
+    "jumpBooth": "B400",
+    "nameKo": "하호하호",
+    "nameEn": "hahohaho",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B432",
+    "jumpBooth": "B400",
+    "nameKo": "1도씨와 온도들",
+    "nameEn": "1docci",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B433",
+    "jumpBooth": "B400",
+    "nameKo": "후루룩",
+    "nameEn": "Hooloolook",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B434",
+    "jumpBooth": "B400",
+    "nameKo": "유일무이(누구나)",
+    "nameEn": "NUGUNA",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B435",
+    "jumpBooth": "B400",
+    "nameKo": "코스모 프레스",
+    "nameEn": "kosmo press",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B436",
+    "jumpBooth": "B400",
+    "nameKo": "아뜰리에아쉬",
+    "nameEn": "AtelierH",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B437",
+    "jumpBooth": "B400",
+    "nameKo": "라우트 프레스",
+    "nameEn": "Route Press",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B438",
+    "jumpBooth": "B400",
+    "nameKo": "오큐파이 더 시티",
+    "nameEn": "Occupy the City",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B439",
+    "jumpBooth": "B400",
+    "nameKo": "길고도 짧은 이야기",
+    "nameEn": "longshortstory",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B440",
+    "jumpBooth": "B400",
+    "nameKo": "무주산골영화제",
+    "nameEn": "MJFF",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B441",
+    "jumpBooth": "B400",
+    "nameKo": "미스테리어스플랜트",
+    "nameEn": "mysterious plant",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B442",
+    "jumpBooth": "B400",
+    "nameKo": "소화당",
+    "nameEn": "SoHwaDang",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B443",
+    "jumpBooth": "B400",
+    "nameKo": "김주영",
+    "nameEn": "Joo Young Kim",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B444",
+    "jumpBooth": "B400",
+    "nameKo": "삐약삐약북스",
+    "nameEn": "PPIYACKPPIYACK BOOKS",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B445",
+    "jumpBooth": "B400",
+    "nameKo": "카인드오브썸머",
+    "nameEn": "KIND OF SUMMER",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B446",
+    "jumpBooth": "B400",
+    "nameKo": "마블로켓",
+    "nameEn": "MARBLEROCKET",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B447",
+    "jumpBooth": "B400",
+    "nameKo": "블루토마토즈",
+    "nameEn": "bluetomatoes",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B448",
+    "jumpBooth": "B400",
+    "nameKo": "노말에이",
+    "nameEn": "NOrmal A",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B449",
+    "jumpBooth": "B400",
+    "nameKo": "연필과머그",
+    "nameEn": "Pencil and Mug",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B450",
+    "jumpBooth": "B400",
+    "nameKo": "까막북",
+    "nameEn": "KKAMAKBOOK",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B451",
+    "jumpBooth": "B400",
+    "nameKo": "에트르",
+    "nameEn": "ETRE",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B452",
+    "jumpBooth": "B400",
+    "nameKo": "책덕",
+    "nameEn": "Bookduck",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B453",
+    "jumpBooth": "B400",
+    "nameKo": "디 오브젝트",
+    "nameEn": "the object",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B454",
+    "jumpBooth": "B400",
+    "nameKo": "TEMPORARY BOOKSHOP | C시지G",
+    "nameEn": "TEMPORARY BOOKSHOP | CsijiG",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B455",
+    "jumpBooth": "B400",
+    "nameKo": "파도",
+    "nameEn": "SEEYOURSEA",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B456",
+    "jumpBooth": "B400",
+    "nameKo": "선과 결",
+    "nameEn": "LineGrain",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B457",
+    "jumpBooth": "B400",
+    "nameKo": "탱크 프레스",
+    "nameEn": "TANK Press",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B458",
+    "jumpBooth": "B400",
+    "nameKo": "바이블랭크",
+    "nameEn": "by_[blank]",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B459",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "te editions",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B460",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "One Stroke",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B461",
+    "jumpBooth": "B400",
+    "nameKo": "마테리알",
+    "nameEn": "ma-te-ri-al",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B462",
+    "jumpBooth": "B400",
+    "nameKo": "소시민워크",
+    "nameEn": "sosiminwork",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B463",
+    "jumpBooth": "B400",
+    "nameKo": "그래픽하",
+    "nameEn": "GRAPHICHA",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B464",
+    "jumpBooth": "B400",
+    "nameKo": "인공위성+82",
+    "nameEn": "Satellite+82",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B465",
+    "jumpBooth": "B400",
+    "nameKo": "수목요일(모눈지)",
+    "nameEn": "sumokyoil(monunji)",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B466",
+    "jumpBooth": "B400",
+    "nameKo": "하이오 웍스",
+    "nameEn": "Haio works",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B467",
+    "jumpBooth": "B400",
+    "nameKo": "미씽아카이브",
+    "nameEn": "missing_archive",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B468",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Image 3",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B469",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Homeward",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B470",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Rusuban Studio",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Indie Publishers Association of Taiwan",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "comma books",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Guerrilla Publishing Co., Ltd",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Halftone Press",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Kuroshio Culture Co. Ltd.",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "LA VIE CINE studio",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Monsoon Zone Publishing Co., Ltd.",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "MULU OFFICE CO., LTD.",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "SiLoo Story",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Slowork Publishing Ltd.",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B471",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "TOKHIU BOOKS CO., LTD.",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Independent Publishers Expo",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B473",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Singapore Art Book Fair",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Blue Sheep Co., ltd.",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "ELVIS PRESS",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "LLC INSECTS",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Manazuru Publishing",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Milllion Years Bookstore",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Nanarokusha Publishing",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "rn press INC.",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Seki Shobo",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Shinyodo",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Shoshikankanbou",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Tababooks",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "The Editorial Department Inc.",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Troublemakers Publishing",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B472",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Tsumujikaze-sha",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B473",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Thing Books Pte Ltd",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B473",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "THEBOOKSHOW",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B473",
+    "jumpBooth": "B400",
+    "nameKo": "",
+    "nameEn": "Thumb Books",
+    "cx": 1509.5,
+    "cy": 1100.5
+  },
+  {
+    "booth": "B501",
+    "jumpBooth": "B501",
+    "nameKo": "한솔제지(주)",
+    "nameEn": "Hansol Paper",
+    "cx": 1854.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B502",
+    "jumpBooth": "B502",
+    "nameKo": "윤에디션",
+    "nameEn": "YUN EDITION",
+    "cx": 1825.5,
+    "cy": 952.0
+  },
+  {
+    "booth": "B503",
+    "jumpBooth": "B503",
+    "nameKo": "롤러코스터",
+    "nameEn": "Rollercoaster Press",
+    "cx": 1882.5,
+    "cy": 952.0
+  },
+  {
+    "booth": "B503",
+    "jumpBooth": "B503",
+    "nameKo": "초록비책공방",
+    "nameEn": "Greenrainbooks",
+    "cx": 1882.5,
+    "cy": 952.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "마포출판문화진흥센터",
+    "nameEn": "PLATFORM P",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "경옥초이",
+    "nameEn": "KYONGOKCHOI BOOKS",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "내로라 출판사",
+    "nameEn": "The Naerora Bookmakers",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "니라이카나이",
+    "nameEn": "NIRAIKANAI",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "도깨비사",
+    "nameEn": "dokebisha",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "두두플래닛",
+    "nameEn": "Dodoplanet",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "두유라이크",
+    "nameEn": "DO! U LIKE",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "리케의 디자인랩",
+    "nameEn": "lidilab",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "마리유니버스",
+    "nameEn": "Mariuniverse",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "머핀북",
+    "nameEn": "MuffinbooK",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "무블출판사",
+    "nameEn": "MOBL Books",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "무중력프레스",
+    "nameEn": "Zero Gravity Press",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "물숨",
+    "nameEn": "moolsoom",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "밤두",
+    "nameEn": "bamdoo press",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "북스토어블",
+    "nameEn": "bookstorable",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "붉은사슴",
+    "nameEn": "Red Deer",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "빛틈",
+    "nameEn": "vitteum",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "생각하는 달팽이",
+    "nameEn": "Thinking Snail",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "선홍빛",
+    "nameEn": "Sunhongbit",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "스튜디오 에디트",
+    "nameEn": "studio_edit",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "스튜디오블랑",
+    "nameEn": "STUDIO BLANC",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "쓰는사람",
+    "nameEn": "SNSR",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "여가도시",
+    "nameEn": "Yeogadosi",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "여름의서재",
+    "nameEn": "summerbooks",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "유유히",
+    "nameEn": "UUHEE BOOKS",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "인생책방/마이북하우스",
+    "nameEn": "Lifebookstore/Mybookhouse",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "정재이프레스",
+    "nameEn": "j.jaeipress",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "출판사 이베르",
+    "nameEn": "hiver press",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "테일브릿지",
+    "nameEn": "The Tale Bridge",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "톰톰프레스",
+    "nameEn": "TomTom Press",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "페이지미디어브릿지",
+    "nameEn": "PMB",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "해파리",
+    "nameEn": "HAEPARY",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B504",
+    "jumpBooth": "B504",
+    "nameKo": "혼혼",
+    "nameEn": "HONHON",
+    "cx": 2037.0,
+    "cy": 1192.0
+  },
+  {
+    "booth": "B505",
+    "jumpBooth": "B505",
+    "nameKo": "쪽프레스",
+    "nameEn": "JJOKKPRESS",
+    "cx": 2008.5,
+    "cy": 952.0
+  },
+  {
+    "booth": "B506",
+    "jumpBooth": "B506",
+    "nameKo": "도서출판도반",
+    "nameEn": "DOBAN BOOKS",
+    "cx": 2065.5,
+    "cy": 952.0
+  },
+  {
+    "booth": "B601",
+    "jumpBooth": "B601",
+    "nameKo": "안전가옥",
+    "nameEn": "SAFEHOUSE",
+    "cx": 2291.0,
+    "cy": 1220.5
+  },
+  {
+    "booth": "B602",
+    "jumpBooth": "B602",
+    "nameKo": "문학동네",
+    "nameEn": "Munhakdongne",
+    "cx": 2291.0,
+    "cy": 980.5
+  },
+  {
+    "booth": "B603",
+    "jumpBooth": "B603",
+    "nameKo": "창비",
+    "nameEn": "Changbi Publishers",
+    "cx": 2600.0,
+    "cy": 1220.5
+  },
+  {
+    "booth": "B604",
+    "jumpBooth": "B604",
+    "nameKo": "아침달",
+    "nameEn": "ACHIMDAL",
+    "cx": 2508.5,
+    "cy": 1009.0
+  },
+  {
+    "booth": "B605",
+    "jumpBooth": "B605",
+    "nameKo": "다람출판사",
+    "nameEn": "Darambooks Publishing",
+    "cx": 2508.5,
+    "cy": 923.5
+  },
+  {
+    "booth": "B606",
+    "jumpBooth": "B606",
+    "nameKo": "주식회사 휴먼밸류 / 더클래스",
+    "nameEn": "HUMAN VALUE, THE CLASS",
+    "cx": 2565.5,
+    "cy": 1037.5
+  },
+  {
+    "booth": "B607",
+    "jumpBooth": "B607",
+    "nameKo": "북챗",
+    "nameEn": "BOOKCHAT",
+    "cx": 2565.5,
+    "cy": 980.5
+  },
+  {
+    "booth": "B608",
+    "jumpBooth": "B608",
+    "nameKo": "썸북스",
+    "nameEn": "SOMEBOOKS",
+    "cx": 2565.5,
+    "cy": 923.5
+  },
+  {
+    "booth": "B609",
+    "jumpBooth": "B609",
+    "nameKo": "국가보훈부",
+    "nameEn": "Ministry of Patriots and Veterans Affairs",
+    "cx": 2691.5,
+    "cy": 980.5
+  },
+  {
+    "booth": "B701",
+    "jumpBooth": "B701",
+    "nameKo": "(주)커피 리브레",
+    "nameEn": "COFFEE LIBRE",
+    "cx": 1486.5,
+    "cy": 674.0
+  },
+  {
+    "booth": "B702",
+    "jumpBooth": "B702",
+    "nameKo": "BBK × SIBF 책 라운지 with 일룸",
+    "nameEn": "BBK × SIBF Book Lounge with iloom",
+    "cx": 1813.0,
+    "cy": 674.0
+  },
+  {
+    "booth": "B703",
+    "jumpBooth": "B703",
+    "nameKo": "주제전시",
+    "nameEn": "Theme Exhibition",
+    "cx": 2026.0,
+    "cy": 674.0
+  },
+  {
+    "booth": "B704",
+    "jumpBooth": "B704",
+    "nameKo": "책마당",
+    "nameEn": "Book Salon",
+    "cx": 2358.0,
+    "cy": 674.0
+  },
+  {
+    "booth": "B705",
+    "jumpBooth": "B705",
+    "nameKo": "프레스룸",
+    "nameEn": "Press Room",
+    "cx": 2668.0,
+    "cy": 763.5
+  },
+  {
+    "booth": "B706",
+    "jumpBooth": "B706",
+    "nameKo": "연사 라운지3",
+    "nameEn": "Speakders Lounge 3",
+    "cx": 2668.0,
+    "cy": 673.5
+  },
+  {
+    "booth": "B707",
+    "jumpBooth": "B707",
+    "nameKo": "연사 라운지",
+    "nameEn": "Speakders Lounge",
+    "cx": 2668.0,
+    "cy": 584.5
+  },
+  {
+    "booth": "A1903",
+    "jumpBooth": "A1903",
+    "nameKo": "연사 라운지2",
+    "nameEn": "Speakders Lounge 2",
+    "cx": 410.5,
+    "cy": 1991.5
+  },
+  {
+    "booth": "A1807",
+    "jumpBooth": "A1807",
+    "nameKo": "연사 라운지1",
+    "nameEn": "Speakders Lounge 1",
+    "cx": 2796.5,
+    "cy": 2278.0
+  },
+  {
+    "booth": "Ticket-Info_B1",
+    "jumpBooth": "Ticket-Info_B1",
+    "nameKo": "B1홀 티켓‧인포데스크",
+    "nameEn": "Ticket Office‧Information - Hall B1",
+    "cx": 3055.0,
+    "cy": 1259.0
+  },
+  {
+    "booth": "Ticket-Info_A",
+    "jumpBooth": "Ticket-Info_A",
+    "nameKo": "A홀 티켓‧인포데스크",
+    "nameEn": "Ticket Office‧Information - Hall A",
+    "cx": 2772.0,
+    "cy": 3374.0
+  }
+]
