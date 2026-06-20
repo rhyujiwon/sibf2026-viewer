@@ -3,7 +3,7 @@ import { SEARCH_INDEX, boothNumIdx, favorites, memos } from './store.js';
 
 const MAP_VBW = 3230, MAP_VBH = 3650;
 let mScale = 1, mTx = 0, mTy = 0;
-let mapReady = false, mapFavOnly = false;
+let mapReady = false, mapFavOnly = false, mapMemoOnly = false;
 const mClamp = (v, lo, hi) => Math.max(lo, Math.min(hi, v));
 
 export function applyMapTransform() {
@@ -19,7 +19,7 @@ export function syncMapOverlays() {
     const hasMemo = idxList.some(i => { const m = memos[String(i)] || {}; return !!(m.goods?.length || m.books?.length); });
     el.classList.toggle('map-fav',  isFav);
     el.classList.toggle('map-memo', hasMemo);
-    el.classList.toggle('map-dim',  mapFavOnly && !isFav);
+    el.classList.toggle('map-dim',  (mapFavOnly && !isFav) || (mapMemoOnly && !hasMemo));
 
     const rect = el.querySelector('rect');
     if (!rect) return;
@@ -280,6 +280,11 @@ export function initMapEvents() {
   $('map-fav-toggle').addEventListener('click', () => {
     mapFavOnly = !mapFavOnly;
     $('map-fav-toggle').classList.toggle('active', mapFavOnly);
+    syncMapOverlays();
+  });
+  $('map-memo-toggle').addEventListener('click', () => {
+    mapMemoOnly = !mapMemoOnly;
+    $('map-memo-toggle').classList.toggle('active', mapMemoOnly);
     syncMapOverlays();
   });
 }
