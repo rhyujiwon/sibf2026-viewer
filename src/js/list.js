@@ -65,8 +65,8 @@ export function card(b) {
         ${cats.slice(0, 2).map(c => `<span style="font-size:11px;font-weight:500;border:1px solid #0d0d0d;color:#0d0d0d;padding:1px 6px;border-radius:4px;white-space:nowrap;">${esc(c)}</span>`).join('')}
       </div>
       <button data-action="fav" data-idx="${idx}"
-              style="flex-shrink:0;width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-size:18px;background:none;border:none;cursor:pointer;color:${fav ? '#AAFF00' : '#d1d5db'};transition:color .15s;line-height:1;-webkit-text-stroke:${fav ? '0' : '1px #ccc'};"
-              aria-label="${fav ? '즐겨찾기 해제' : '즐겨찾기 추가'}">★</button>
+              style="flex-shrink:0;width:32px;height:32px;display:flex;align-items:center;justify-content:center;background:none;border:none;cursor:pointer;color:${fav ? '#f43f5e' : '#d1d5db'};transition:color .15s;border-radius:6px;"
+              aria-label="${fav ? '즐겨찾기 해제' : '즐겨찾기 추가'}"><svg width="18" height="18" viewBox="0 0 24 24" fill="${fav ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg></button>
     </div>
 
     <h2 style="font-size:16px;font-weight:800;letter-spacing:-0.02em;color:#0d0d0d;margin:0 0 8px;line-height:1.3;">${esc(b['참가사명'] || '')}</h2>

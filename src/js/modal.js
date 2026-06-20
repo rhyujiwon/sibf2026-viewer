@@ -9,6 +9,9 @@ let bpCurrentIdx  = null;
 let bpBoothNum    = null;
 let bmBodyAbort   = new AbortController();
 
+const heartSVG = filled =>
+  `<svg width="22" height="22" viewBox="0 0 24 24" fill="${filled ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>`;
+
 export function openBoothPanel(boothNum) {
   bpBoothNum = boothNum;
   const idxList = boothNumIdx[boothNum] || [];
@@ -18,7 +21,7 @@ export function openBoothPanel(boothNum) {
     $('bm-name').textContent    = '정보 없음';
     $('bm-phone').innerHTML     = '';
     $('bm-body').innerHTML      = '<p style="font-size:13px;color:#94a3b8;text-align:center;padding:32px 0;">참가사 정보가 없습니다.</p>';
-    $('bm-fav-btn').textContent = '☆';
+    $('bm-fav-btn').innerHTML = heartSVG(false);
     $('bm-fav-btn').className   = '';
     $('bm-fav-btn').onclick     = null;
     $('bm-fav-btn').style.display = '';
@@ -100,7 +103,7 @@ export function renderBoothPanel(idx) {
   }
 
   const favBtn = $('bm-fav-btn');
-  favBtn.textContent = isFav ? '★' : '☆';
+  favBtn.innerHTML  = heartSVG(isFav);
   favBtn.className   = isFav ? 'is-fav' : '';
   favBtn.onclick     = () => toggleMapFav(idx);
 

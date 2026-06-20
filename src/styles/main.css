@@ -188,9 +188,9 @@
   #bm-name  { font-size:17px; font-weight:700; color:#1e293b; margin:0 0 3px; line-height:1.3; }
   #bm-phone { font-size:12px; color:#94a3b8; margin:0; }
   #bm-actions { display:flex; align-items:center; gap:2px; flex-shrink:0; padding-top:2px; }
-  #bm-fav-btn   { font-size:26px; line-height:1; background:none; border:none; cursor:pointer; padding:4px; transition:transform .15s; color:#e2e8f0; }
-  #bm-fav-btn.is-fav { color:#AAFF00; -webkit-text-stroke:0; }
-  #bm-fav-btn:hover { transform:scale(1.2); }
+  #bm-fav-btn   { width:36px; height:36px; display:flex; align-items:center; justify-content:center; background:none; border:none; cursor:pointer; padding:4px; transition:transform .15s, color .15s; color:#d1d5db; border-radius:8px; flex-shrink:0; }
+  #bm-fav-btn.is-fav { color:#f43f5e; }
+  #bm-fav-btn:hover { transform:scale(1.15); color:#f43f5e; }
   #bm-close-btn { font-size:20px; line-height:1; color:#cbd5e1; background:none; border:none; cursor:pointer; padding:4px; }
   #bm-close-btn:hover { color:#64748b; }
   #bm-body { flex:1; overflow-y:auto; -webkit-overflow-scrolling:touch; padding:14px 18px 32px; display:flex; flex-direction:column; gap:12px; }
