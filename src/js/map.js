@@ -36,8 +36,8 @@ export function syncMapOverlays() {
     }
     if (hasMemo) {
       const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-      dot.setAttribute('cx', x + 11); dot.setAttribute('cy', y + 11); dot.setAttribute('r', '9');
-      dot.setAttribute('fill', '#AAFF00'); dot.setAttribute('stroke', '#111'); dot.setAttribute('stroke-width', '1.5');
+      dot.setAttribute('cx', x + 8); dot.setAttribute('cy', y + 8); dot.setAttribute('r', '6');
+      dot.setAttribute('fill', '#AAFF00'); dot.setAttribute('stroke', '#fff'); dot.setAttribute('stroke-width', '2');
       dot.setAttribute('class', 'map-memo-dot'); dot.setAttribute('pointer-events', 'none');
       el.appendChild(dot);
     }
